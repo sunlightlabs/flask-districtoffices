@@ -1,8 +1,11 @@
-from flask import Flask, Response, redirect, render_template
+from flask import Flask, Response, redirect, render_template, request
 from sunlightapi import sunlight, SunlightApiError
 import csv
 import json
+import logging
 import os
+
+logger = logging.getLogger('districtoffices')
 
 PWD = os.path.abspath(os.path.dirname(__file__))
 OFFICES = {}
@@ -41,6 +44,11 @@ def legislator_to_dict(legislator):
 #
 
 app = Flask(__name__)
+
+@app.before_request
+def request_logger():
+    print request.path
+    logger.debug(request.path)
 
 @app.route("/zipcode/<zipcode>")
 def by_zipcode(zipcode):
