@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Find the local offices for your Members of Congress</title>
-    <link rel="stylesheet" href="/static/css/normalize.css">
+    <link rel="stylesheet" href="static/css/normalize.css">
     <style>
 
         div.container {
@@ -42,7 +42,7 @@
         }
 
         a.autolocate {
-            background: url(/static/images/crosshair-icon.png) top left no-repeat;
+            background: url(static/images/crosshair-icon.png) top left no-repeat;
             display: block;
             float: right;
             text-indent: -9999px;
@@ -58,12 +58,12 @@
             margin: 0.3em 0;
             padding: 5px 0 0 32px;
         }
-        ul#members li:nth-child(1) { background-image: url(/static/images/marker_red.png); }
-        ul#members li:nth-child(2) { background-image: url(/static/images/marker_blue.png); }
-        ul#members li:nth-child(3) { background-image: url(/static/images/marker_orange.png); }
-        ul#members li:nth-child(4) { background-image: url(/static/images/marker_purple.png); }
-        ul#members li:nth-child(5) { background-image: url(/static/images/marker_green.png); }
-        ul#members li:nth-child(6) { background-image: url(/static/images/marker_yellow.png); }
+        ul#members li:nth-child(1) { background-image: url(static/images/marker_red.png); }
+        ul#members li:nth-child(2) { background-image: url(static/images/marker_blue.png); }
+        ul#members li:nth-child(3) { background-image: url(static/images/marker_orange.png); }
+        ul#members li:nth-child(4) { background-image: url(static/images/marker_purple.png); }
+        ul#members li:nth-child(5) { background-image: url(static/images/marker_green.png); }
+        ul#members li:nth-child(6) { background-image: url(static/images/marker_yellow.png); }
 
         .popup { font-size: 70%; line-height: 140%; margin: 0.1em 0.3em; width: 200px; }
         .popup span { display: block; margin-bottom: 0.7em; }
@@ -94,7 +94,7 @@
 
     </div>
 
-    <script src="/static/js/jquery-1.6.2.min.js"></script>
+    <script src="static/js/jquery-1.6.2.min.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
     <script>
 
@@ -199,7 +199,7 @@
                                     map: map,
                                     position: ll,
                                     title: memberName + ' - ' + office.address,
-                                    icon: '/static/images/' + icons[memberIndex],
+                                    icon: 'static/images/' + icons[memberIndex],
                                     visible: true
                                 });
 
