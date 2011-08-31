@@ -77,7 +77,7 @@
 
         <div id="themap"></div>
 
-        <form action="/zipcode" method="get">
+        <form action="zipcode" method="get">
 
             <a href="#" class="autolocate" title="Automatically find your location">x</a>
             <label for="zipcode-field">Your zipcode</label>
@@ -174,7 +174,7 @@
                     map.panTo(results[0].geometry.location);
                     map.setZoom(8);
 
-                    $.getJSON('/zipcode/' + zipcode, function(members) {
+                    $.getJSON('zipcode/' + zipcode, function(members) {
 
                         if (members.length == 0) {
                             showErrorMessage('No offices found for ' + zipcode);
