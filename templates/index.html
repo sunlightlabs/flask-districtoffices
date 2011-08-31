@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Find the local offices for your Members of Congress</title>
+    <link rel="stylesheet" href="/static/css/normalize.css">
+    <style>
+
+        div.container {
+            border: 1px solid #ddd;
+            height: 550px;
+            width: 400px;
+        }
+
+        #themap {
+            border: 1px solid #999;
+            border-bottom: 0;
+            height: 280px;
+            width: 398px;
+        }
+
+        form {
+            border: 1px solid #999;
+            border-top: 0;
+            background-color: #bcc;
+            background: -webkit-linear-gradient(#9bb, #bcc);
+            background:    -moz-linear-gradient(#9bb, #bcc);
+            background:         linear-gradient(#9bb, #bcc);
+            font-size: 90%;
+            padding: 0.6em 1em;
+        }
+        form label { font-weight: bold; padding-right: 0.5em; }
+        form input[type=text] { margin-right: 0.5em; }
+        form input[type=submit] { font-size: 90%; padding: 0.3em 0.8em; }
+
+        div.error {
+            color: #c00;
+            display: none;
+            font-weight: bold;
+            margin: 1.2em 0 0.5em;
+            text-align: center;
+            text-shadow: 0 0 2px #fff;
+        }
+
+        a.autolocate {
+            background: url(/static/images/crosshair-icon.png) top left no-repeat;
+            display: block;
+            float: right;
+            text-indent: -9999px;
+            width: 24px;
+            height: 24px;
+        }
+
+        ul#members { list-style: none; margin: 1em 0.5em; padding: 0; }
+        ul#members li {
+            background: transparent;
+            background-repeat: no-repeat;
+            height: 32px;
+            margin: 0.3em 0;
+            padding: 5px 0 0 32px;
+        }
+        ul#members li:nth-child(1) { background-image: url(/static/images/marker_red.png); }
+        ul#members li:nth-child(2) { background-image: url(/static/images/marker_blue.png); }
+        ul#members li:nth-child(3) { background-image: url(/static/images/marker_orange.png); }
+        ul#members li:nth-child(4) { background-image: url(/static/images/marker_purple.png); }
+        ul#members li:nth-child(5) { background-image: url(/static/images/marker_green.png); }
+        ul#members li:nth-child(6) { background-image: url(/static/images/marker_yellow.png); }
+
+        .popup { font-size: 70%; line-height: 140%; margin: 0.1em 0.3em; width: 200px; }
+        .popup span { display: block; margin-bottom: 0.7em; }
+        .popup span.name { font-weight: bold; }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <div id="themap"></div>
+
+        <form action="/zipcode" method="get">
+
+            <a href="#" class="autolocate" title="Automatically find your location">x</a>
+            <label for="zipcode-field">Your zipcode</label>
+            <input type="text" name="zipcode" id="zipcode-field" size="5" maxlength="5">
+            <input type="submit" value="Find offices">
+
+            <div class="error">
+                Sorry, not a zipcode.
+            </div>
+
+        </form>
+
+        <ul id="members"></ul>
+
+    </div>
+
+    <script src="/static/js/jquery-1.6.2.min.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script>
+
+        var g = google.maps;
+        var geocoder = new g.Geocoder();
+
+        var map;
+        var popup;
+        var markers = {};
+        var icons = [
+            'marker_red.png',
+            'marker_blue.png',
+            'marker_orange.png',
+            'marker_purple.png',
+            'marker_green.png',
+            'marker_yellow.png'
+        ];
+        var mapStyles = [
+            {
+                featureType: "all",
+                stylers: [{ saturation: -50 }]
+            },
+            {
+                featureType: "poi",
+                stylers: [{ visibility: "off" }]
+            },
+            {
+                featureType: "road.highway",
+                stylers: [{ lightness: 22 }]
+            }
+        ];
+
+        var $err = $('div.error');
+        var errTimeout;
+
+        var $members = $('#members');
+
+        var $form = $('form').bind('submit', function(ev) {
+            var zipcode = $(this).find('input[name=zipcode]').val();
+            zoomToZipcode(zipcode);
+            ev.preventDefault();
+        });
+
+        var zoomToZipcode = function(zipcode) {
+
+            if (!/\d{5}/.test(zipcode)) {
+                showErrorMessage('Sorry, \'' + zipcode + '\' is not a valid zipcode');
+                return;
+            }
+
+            //
+            // geocode zipcode to latlng
+            //
+
+            geocoder.geocode({'address': zipcode}, function(results, status) {
+
+                if (status == g.GeocoderStatus.OK) {
+
+                    //
+                    // reset the map
+                    //
+
+                    $members.slideUp().empty();
+
+                    $.each(markers, function(key, markerList) {
+                        $.each(markers[key], function(idx, marker) {
+                            marker.setMap(null);
+                        });
+                    });
+
+                    markers = {};
+
+                    //
+                    // pan, zoom, and get reps
+                    //
+
+                    map.panTo(results[0].geometry.location);
+                    map.setZoom(8);
+
+                    $.getJSON('/zipcode/' + zipcode, function(members) {
+
+                        if (members.length == 0) {
+                            showErrorMessage('No offices found for ' + zipcode);
+                            return;
+                        }
+
+                        $.each(members, function(memberIndex, member) {
+
+                            var memberName = member.title + '. ' + member.firstname + ' ' + member.lastname + ' (' + member.party + ')';
+
+                            markers[member.bioguide_id] = [];
+
+                            $.each(member.offices, function(officeIndex, office) {
+
+                                var ll = new g.LatLng(office.latitude, office.longitude);
+
+                                var infoWindow = new google.maps.InfoWindow({
+                                    content: '<div class="popup"><span class="name">' + memberName + '</span><span class="addr">' + office.address + '</span><span class="tel">' + office.phone + '</span></div>'
+                                });
+
+                                var marker = new g.Marker({
+                                    map: map,
+                                    position: ll,
+                                    title: memberName + ' - ' + office.address,
+                                    icon: '/static/images/' + icons[memberIndex],
+                                    visible: true
+                                });
+
+                                g.event.addListener(marker, 'click', function() {
+                                    if (popup) {
+                                        popup.close();
+                                        popup = null;
+                                    }
+                                    infoWindow.open(map, marker);
+                                    popup = infoWindow;
+                                });
+
+                                markers[member.bioguide_id].push(marker);
+
+                            });
+
+                            var $li = $('<li>');
+                            $li.text(memberName);
+                            $li.data('bioguide', member.bioguide_id);
+
+                            $li.bind('click', function() {
+
+                                $.each(markers[member.bioguide_id], function(index, marker) {
+
+                                    if (!marker.getAnimation()) {
+
+                                        marker.setAnimation(g.Animation.BOUNCE);
+                                        setTimeout(function() {
+                                            marker.setAnimation(null);
+                                        }, 1500);
+
+                                    }
+
+                                });
+
+                            });
+
+                            $members.append($li);
+
+                        }); // for each member
+
+                        $members.slideDown();
+
+                    }); // getJSON
+
+                } else {
+                    showErrorMessage("Sorry, we couldn't locate " + zipcode);
+                }
+
+            });
+
+        };
+
+        var autolocate = function() {
+
+            navigator.geolocation.getCurrentPosition(function(position) {
+
+                var coords = position.coords;
+                var ll = new g.LatLng(coords.latitude, coords.longitude);
+
+                geocoder.geocode({'location': ll}, function(results, status) {
+
+                    if (status == g.GeocoderStatus.OK && results) {
+
+                        var res = results[0];
+                        var zipcode = res.address_components[5].short_name;
+
+                        $form.find('input[name=zipcode]').val(zipcode);
+                        zoomToZipcode(zipcode);
+
+                    }
+
+                });
+
+            }, function(err) {
+                // just ignore this
+            });
+
+        };
+
+        var showErrorMessage = function(msg) {
+
+            if (errTimeout) {
+                clearTimeout(errTimeout);
+            }
+
+            $err.text(msg);
+            $err.slideDown();
+
+            errTimeout = setTimeout(function() {
+                $err.slideUp();
+            }, 3000);
+
+        };
+
+        $().ready(function() {
+
+            map = new g.Map(document.getElementById("themap"), {
+                zoom: 6,
+                center: new g.LatLng(42.1386, -87.1976),
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                mapTypeControl: false,
+                styles: mapStyles
+            });
+
+            $('a.autolocate').bind('click', function(ev) {
+                autolocate();
+                ev.preventDefault();
+            });
+
+            if (navigator.geolocation) {
+                autolocate();
+            }
+
+        });
+    </script>
+
+</body>
+</html>

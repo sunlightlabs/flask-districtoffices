@@ -1,0 +1,1324 @@
+bioguide_id,address,latitude,longitude,phone
+A000022,"218-14 Northern Boulevard Bayside, New York 11361",40.761155,-73.763649,(718) 423-2154
+A000366,"2461 West SR 426, Suite 1041 Oviedo, Florida 32765",28.634434,-81.237019,(407) 977-7601
+A000366,"1000 City Center Cicle Port Orange, Florida 32129",29.126222,-81.021771,(386) 756-9798
+A000055,"1710 Alabama Avenue, Carl Elliott Building, #247 Jasper, Alabama 35501",33.828427,-87.270469,(205) 221-2310
+A000055,"205 4th Avenue, NE, Suite 104 Cullman, Alabama 35055",34.180710,-86.840987,(256) 734-6043
+A000055,"600 Broad Street, 107 Federal Building Gadsden, Alabama 35901",34.014459,-86.006541,(256) 546-0201
+A000055,"Morgan County Courthouse, PO Box 668 Decatur, Alabama 35602",34.609930,-86.977599,(256) 350-4093
+A000069,"300 Ala Moana Boulevard, Room 3-106 Honolulu, Hawaii 96850",21.304233,-157.862977,(808) 522-8970
+A000069,"101 Aupuni Street, #213 Hilo, Hawaii 96720",19.718100,-155.077458,(808) 935-1114
+A000358,"301 Sovereign Court, Suite 201 St. Louis, Missouri 63011",38.598451,-90.489897,(314) 590-0029
+A000358,"820 South Main Street, Suite 206 St. Charles, Missouri 63301",38.775479,-90.484286,(636) 949-6826
+A000361,"1412 Center Court, Suite 402 Alexandria, Louisiana 71301",31.279962,-92.476676,(318) 445-0818
+A000361,"1900 Stubbs Avenue, Suite B Monroe, Louisiana 71201",32.520737,-92.107542,(318) 322-3500
+A000360,"3322 West End Avenue, Suite 120 Nashville, Tennessee 37203",36.140583,-86.817782,(615) 736-5129
+A000360,"800 Market Street, Suite 112 Knoxville, Tennessee 37902",35.962198,-83.917778,(865) 545-4253
+A000360,"167 North Main Street, Suite 1068 Memphis, Tennessee 38103",35.149780,-90.050969,(901) 544-4224
+A000360,"900 Georgia Avenue, Suite 260 Chattanooga, Tennessee 37402",35.045666,-85.308309,(423) 752-5337
+A000360,"109 South Highland Street, #B-9 Jackson, Tennessee 38301",35.613631,-88.819413,(731) 423-9344
+A000360,"2525 Highway 75, PO Box 1113 Blountville, Tennessee 37617",36.478213,-82.411779,(423) 325-6240
+A000362,"2110 McLean Street Aliquippa, Pennsylvania 15001",40.603299,-80.276998,(724) 378-0928
+A000362,"Office: 2124 Freeport Road Natrona Heights, Pennsylvania 15065",40.631050,-79.725017,(724) 226-1304
+A000367,"110 Michigan Street, Suite 166 Grand Rapids, Michigan 49503",42.970482,-85.666167,(616) 451-8383
+A000210,"515 Grove Street, 3rd Floor, Suite 3C Haddon Heights, New Jersey 08035",39.879679,-75.048843,(856) 546-5100
+A000210,"63 North Broad Street Woodbury, New Jersey 08096",39.840130,-75.151761,(856) 848-3900
+A000365,"5 West North Street, Suite 200 Springfield, Ohio 45504",39.927108,-83.810079,(937) 325-0474
+A000365,"207 South Broad Street Lancaster, Ohio 43130",39.712255,-82.602035,(740) 654-5149
+A000368,"41 Hooksett Road, Unit 2 Manchester, New Hampshire 03104",43.007807,-71.457014,(603) 622-7979
+A000368,"14 Manchester Square, Suite 140 Portsmouth, New Hampshire 03801",43.085390,-70.808512,(603) 436-7161
+A000368,"144 Main Street Nashua, New Hampshire 03060",42.761683,-71.465669,(603) 880-3335
+B001234,"201 North ""E"" Street, Suite 102 San Bernardino, California 92401",34.103052,-117.294081,(909) 885-2222
+B001256,"6043 Hudson Road, Suite 330 Woodbury, Minnesota 55125",44.947686,-92.984531,(651) 731-5400
+B001256,"110 2nd Street South, Suite 232 Waite Park, Minnesota 56387",45.549727,-94.215546,(320) 253-5931
+B000013,"1900 International Park Drive, #107 Birmingham, Alabama 35243",33.407253,-86.761732,(205) 969-2296
+B000013,"703 Second Avenue North, PO Box 502 Clanton, Alabama 35046",32.883705,-86.560842,(205) 280-0704
+B001230,"10 East Doty Street, Suite 405 Madison, Wisconsin 53703",43.073352,-89.382002,(608) 258-9800
+B001230,"1 South Church Street, Suite 100 Hazleton, Pennsylvania 18702",40.954758,-75.977042,(608) 362-2800
+B001269,"1 South Church Street, Suite 100 Hazleton, Pennsylvania 18702",40.954758,-75.977042,(570) 751-0050
+B001261,"100 East B Street, Suite 2201 Casper, Wyoming 82601",42.851996,-106.325099,(307) 261-6413
+B001261,"2120 Capitol Avenue, Suite 2013 Cheyenne, Wyoming 82001",41.137379,-104.818382,(307) 772-2451
+B001261,"1575 Dewar Drive, Suite 218 Rock Springs, Wyoming 82901",41.574477,-109.241187,(307) 362-5012
+B001261,"324 East Washington Avenue Riverton, Wyoming 82501",43.023598,-108.387338,(307) 856-6642
+B001261,"2 North Main, Suite 206 Sheridan, Wyoming 82801",44.797338,-106.955875,(307) 672-6456
+B001252,"450 Mall Boulevard, Suite A Savannah, Georgia 31406",32.002154,-81.111243,(912) 354-7282
+B001252,"925 Laney Walker Boulevard, Suite 300 Augusta, Georgia 30901",33.464048,-81.974903,(706) 722-4494
+B001252,"141 West Haynes Street, City Hall Sandersville, Georgia 31082",32.982913,-82.811535,(478) 553-1923
+B001252,"107 Old Airport Road, Suite A Vidalia, Georgia 30474",32.206049,-82.376269,(912) 537-9301
+B001252,"127 East Hancock Street Milledgeville, Georgia 31061",33.081344,-83.226524,(478) 452-4611
+B000208,"7360 Guildford Drive, Suite 101 Frederick, Maryland 21704",39.354546,-77.360096,(301) 694-3030
+B000208,"15 East Main Street, Suite 110 Westminster, Maryland 21157",39.574779,-76.995572,(410) 857-1115
+B000208,"1 Frederick Street, Suite 2 Cumberland, Maryland 21502",39.652832,-78.762094,(301) 724-3105
+B000208,"11377 Robinwood Drive, Suite F Hagerstown, Maryland 21742",39.627285,-77.666602,(301) 797-6043
+B000213,"6001 West Ronald Reagan Memorial Highway, Ste. 200 Arlington, Texas 76017",32.674847,-97.157719,(817) 543-1000
+B000213,"2106-A West Ennis Avenue Ennis, Texas 75119",32.319998,-96.648213,(972) 875-8488
+B000213,"303 North 6th Street Crockett, Texas 75835",31.319901,-95.456177,(936) 544-8488
+B000220,"114 North Main Street, Suite 200 Concord, New Hampshire 03301",43.207241,-71.536591,(603) 226-0064
+B000220,"32 Main Street, Suite 110 Littleton, New Hampshire 03561",44.306392,-71.771576,(603) 444-5505
+B000220,"221 Main Street, Suite 201 Nashua, New Hampshire 03060",42.759134,-71.464567,(603) 595-7701
+B001270,"4322 Wilshire Boulevard, Suite 302 Los Angeles, California 90010",34.061765,-118.322352,(323) 965-1422
+B000243,"222 North 32nd Street, Suite 100 Billings, Montana 59101",45.780836,-108.511707,(406) 657-6790
+B000243,"30 West 14th Street, Suite 206 Helena, Montana 59601",46.596275,-112.037076,(406) 449-5480
+B000243,"280 East Front Street, Suite 100 Missoula, Montana 59802",46.869539,-113.992411,(406) 329-3123
+B000243,"8 Third Street East Kalispell, Montana 59901",48.195861,-114.312486,(406) 756-1150
+B000243,"220 West Lamme Street, Suite 1D Bozeman, Montana 59715",45.681262,-111.040387,(406) 586-6104
+B000243,"113 3rd Street North Great Falls, Montana 59401",47.506642,-111.302529,(406) 761-1574
+B000243,"122 West Towne Street Glendive, Montana 59330",47.105426,-104.712981,(406) 365-7002
+B000287,"1910 West Sunset Boulevard, Suite 810 Los Angeles, California 90026",34.078057,-118.260677,(213) 483-1425
+B001265,"510 L Street, Peterson Tower, Suite 750 Anchorage, Alaska 99501",61.216072,-149.875879,(907) 271-5915
+B001265,"101 12th Avenue, Room 328 Fairbanks, Alaska 99701",64.838351,-147.706741,(907) 456-0261
+B001265,"One Sealaska Plaza, Suite 308 Juneau, Alaska 99802",58.299154,-134.410343,(907) 586-7700
+B001265,"1900 First Avenue, Whitecliff Building, Suite 230 Ketchikan, Alaska 99901",55.441892,-131.602023,(907) 225-3000
+B001265,"805 Frontage Road, Suite 101 Kenai, Alaska 99611",60.554297,-151.257361,(907) 283-4000
+B001271,"500 South Stephenson, Suite 500 Iron Mountain, Michigan 49801",45.818367,-88.065674,(906) 828-1581
+B001271,"200 Divison Street, Suite 178 Petoskey, Michigan 49770",45.375758,-84.952287,(231) 348-0657
+B001267,"2300 15th Street, Suite 450 Denver, Colorado 80202",39.755527,-105.008118,(303) 455-7600
+B001267,"Durango Office: 835 East 2nd Avenue, Suite 206 Durango, Colorado 81301",37.337070,-107.841587,(970) 259-1710
+B001267,"409 North Tejon Street, Suite 107 Colorado Springs, Colorado 80903",38.839789,-104.823179,(719) 328-1100
+B001267,"1200 South College Avenue, Suite 211 Ft. Collins, Colorado 80524",40.571991,-105.076971,(970) 224-2200
+B001267,"225 North 5th Street, Suite 511 Grand Junction, Colorado 81501",39.068602,-108.564464,(970) 241-6631
+B001267,"129 West B Street Pueblo, Colorado 81003",38.262700,-104.616306,(719) 542-7550
+B001267,"609 Main Street, Suite 110 Alamosa, Colorado 81101",37.468198,-105.865743,(719) 587-0096
+B001272,"220 East Rosser Avenue, 328 Federal Building Bismarck, North Dakota 58501",46.808605,-100.788692,(701) 224-0355
+B001272,"3003 32nd Avenue South, Suite 6 Fargo, North Dakota 58103",46.832660,-96.828347,(701) 235-9760
+B001231,"2340 Paseo del Prado, Suite D106 Las Vegas, Nevada 89102",36.145458,-115.177625,(702) 220-9823
+B000410,"14546 Hamlin Street, Suite 202 Van Nuys, California 91411",34.188652,-118.449777,(818) 994-7200
+B001232,"6262 South Route 83, Suite 305 Willowbrook, Illinois 60527",41.776289,-87.946846,(630) 655-2052
+B000461,"380 Stevens Avenue, Suite 212 Solana Beach, California 92075",32.992538,-117.261801,(858) 350-1150
+B001257,"35111 US Highway 19 North, Suite 301 Palm Harbor, Florida 34684",28.091232,-82.739399,(727) 773-2871
+B001257,"110 West Reynolds Street, Suite 101 Plant City, Florida 33563",28.016312,-82.123631,(813) 752-9849
+B000468,"625 Silver Avenue, SW, Suite 130 Albuquerque, New Mexico 87102",35.082913,-106.654720,(505) 346-6601
+B000468,"119 East Marcy, Suite 101 Santa Fe, New Mexico 87501",35.688962,-105.936555,(505) 988-6647
+B000468,"200 East Fourth Street, Suite 300 Roswell, New Mexico 88201",33.396461,-104.520922,(575) 622-7113
+B000468,"148 Loretto Towne Center, 505 South Main Las Cruces, New Mexico 88001",32.306730,-106.777734,(575) 523-6561
+B000468,"118 Bridge Street, Suite 3, PO Box 1977 Las Vegas, New Mexico 87701",35.599460,-105.213709,(505) 454-8824
+B001250,"324 25th Street, Suite 1017 Ogden, Utah 84401",41.220698,-111.972624,(801) 625-0107
+B001250,"6 North Main Street Brigham City, Utah 84302",41.510754,-112.015761,(435) 734-2270
+B001250,"125 South State Street, Suite 5420 Salt Lake City, Utah 84138",40.766580,-111.888221,(801) 532-3244
+B000490,"235 W. Roosevelt Ave., Albany Towers, Ste. 114 Albany, Georgia 31701",31.582314,-84.160845,(229) 439-8067
+B000490,"137 East Jackson Street Thomasville, Georgia 31792",30.837830,-83.979710,(229) 226-7789
+B000490,"18 Ninth Street, Suite 201 Columbus, Georgia 31901",32.462842,-84.992807,(706) 320-9477
+B001242,"3680 Route 112, Suite C Coram, New York 11727",40.864461,-72.999102,(631) 696-6500
+B001242,"137 Hampton Road Southampton, New York 11968",40.888093,-72.384754,(631) 259-8450
+B001273,"305 West Main Street Murfeesboro, Tennessee 37130",35.846220,-86.394065,(615) 896-1986
+B001243,"7975 Stage Hill Boulevard, Suite 1 Memphis, Tennessee 38133",35.208967,-89.797046,(901) 382-5811
+B001243,"1850 Memorial Drive Clarksville, Tennessee 37043",36.521333,-87.302385,(931) 503-0391
+B001243,"198 East Main Street, Suite 1 Franklin, Tennessee 37064",35.925906,-86.867456,(615) 591-5161
+B000574,"729 NE Oregon Street, Suite 115 Portland, Oregon 97232",45.528628,-122.658166,(503) 231-2300
+B001277,"30 Lewis Street, Suite 101 Hartford, Connecticut 06103",41.765157,-72.675356,(860) 258-6940
+B000575,"911 Main St., Suite 2224 Kansas City, Missouri 64105",39.103353,-94.583069,(816) 471-7141
+B000575,"2740 B East Sunshine Springfield, Missouri 65804",37.180772,-93.240495,(417) 877-7814
+B000575,"7700 Bonhomme, #615 Clayton, Missouri 63105",38.647308,-90.334755,(314) 725-4484
+B000575,"555 Independence Street, Suite 1500 Cape Girardeau, Missouri 63703",37.303993,-89.524815,(573) 334-7044
+B000575,"308 East High Suite, #202 Jefferson City, Missouri 65101",38.574980,-92.169645,(573) 634-2488
+B000575,"1001 Cherry Street, Suite 203 Columbia, Missouri 65201",38.950486,-92.326402,(573) 442-8151
+B000589,"7969 Cincinnati-Dayton Road, Suite B West Chester, Ohio 45069",39.353748,-84.395152,(513) 779-5400
+B000589,"12 South Plum Street Troy, Ohio 45373",40.040296,-84.205402,(937) 339-1524
+B001244,"11 North Water Street, Suite 15290 Mobile, Alabama 36602",30.693051,-88.039369,(251) 690-2811
+B001244,"1302 North McKenzie Street Foley, Alabama 36535",30.421527,-87.683191,(251) 943-2073
+B001228,"707 East Tahquitz Canyon Way, Suite 9 Palm Springs, California 92262",33.823032,-116.540603,(760) 320-1076
+B001228,"1600 East Florida Avenue, Suite 301 Hemet, California 92544",33.747619,-116.955581,(951) 658-2312
+B001236,"213 West Monroe, Suite N Lowell, Arkansas 72745",36.254179,-94.140041,(479) 725-0400
+B001236,"1120 Garrison Avenue Ft. Smith, Arkansas 72901",35.384050,-94.420502,(479) 573-0189
+B001245,"120 Father Duenas Avenue, Suite 107 Hagatna, Guam 96910",13.449525,144.749847,(671) 477-4272
+B001254,"431 West Broadway Muskogee, Oklahoma 74401",35.750146,-95.372918,(918) 687-2533
+B001254,"309 West 1st Street Claremore, Oklahoma 74017",36.308644,-95.611907,(918) 341-9336
+B001254,"25 East Carl Albert Parkway, Suite B McAlester, Oklahoma 74501",34.933405,-95.769333,(918) 423-5951
+B001254,"112 North 12th Avenue Durant, Oklahoma 74701",33.994085,-96.388815,(580) 931-0333
+B000652,"300 East Locust, Suite 320 Des Moines, Iowa 50309",41.589177,-93.613746,(515) 282-1909
+B001255,"800 Lafayette Street, Suite 1400 Lafayette, Louisiana 70501",30.225185,-92.020779,(337) 235-6322
+B001255,"One Lakeshore Drive, Suite 1775 Lake Charles, Louisiana 70629",30.229935,-93.219088,(337) 433-1747
+B000711,"1700 Montgomery Street, Suite 240 San Francisco, California 94111",37.804883,-122.405170,(415) 403-0100
+B000711,"312 North Spring Street, Suite 1748 Los Angeles, California 90012",34.055171,-118.242344,(213) 894-5000
+B000711,"501 I Street, Suite 7-600 Sacramento, California 95814",38.582950,-121.498791,(916) 448-2787
+B000711,"600 B Street, Suite 2240 San Diego, California 92101",32.717808,-117.159159,(619) 239-3884
+B000711,"2500 Tulare Street, Suite 5290 Fresno, California 93721",36.737552,-119.784850,(559) 497-5109
+B000711,"3403 10th Street, Suite 704 Riverside, California 92501",33.978393,-117.372436,(951) 684-4849
+B000755,"200 River Pointe Drive, #304 Conroe, Texas 77304",30.284032,-95.462179,(936) 441-5700
+B000755,"420 Green Avenue Orange, Texas 77630",30.093171,-93.732417,(409) 883-4197
+B000755,"1202 Sam Houston Avenue, Suite 8 Huntsville, Texas 77340",30.722836,-95.551444,(936) 439-9532
+B001227,"1907-09 South Broad Street Philadelphia, Pennsylvania 19148",39.926681,-75.169175,(215) 389-4627
+B001227,"2637 East Clearfield Street Philadelphia, Pennsylvania 19134",39.983497,-75.105471,(267) 519-2252
+B001227,"511-13 Welsh Street, 1st Floor Chester, Pennsylvania 19013",39.849098,-75.359100,(610) 874-7094
+B001227,"2630 Memphis Street Philadelphia, Pennsylvania 19121",39.982172,-75.119851,(215) 426-4616
+B001259,"219 East 4th Street Waterloo, Iowa 50703",42.498435,-92.335743,(319) 287-3233
+B001259,"209 West 4th Street, Suite 104 Davenport, Iowa 52801",41.523517,-90.575832,(563) 323-5988
+B001259,"1050 Main Street Dubuque, Iowa 52001",42.502885,-90.668245,(563) 557-7789
+B001274,"302 Lee Street, Room 86 Decatur, Alabama 35601",34.606801,-86.985859,(256) 355-9400
+B001274,"2101 Clinton Avenue, Suite 301 Huntsville, Alabama 35803",34.725183,-86.597989,(256) 551-0190
+B001274,"1011 George Wallace Boulevard Tuscumbia, Alabama 35674",34.740712,-87.679391,(256) 381-3450
+B001262,"4246 Washington Road, Suite 6 Evans, Georgia 30809",33.528506,-82.122439,(706) 447-3857
+B001262,"3706 Atlanta Highway, Suite 3B Athens, Georgia 30606",33.940913,-83.466930,(706) 549-9588
+B001262,"194 Remsdale Street Toccoa, Georgia 30577",34.584885,-83.335550,(706) 886-1008
+B000911,"101 East Union Street, Suite 202 Jacksonville, Florida 32202",30.331959,-81.654898,(904) 354-1652
+B000911,"219 Lime Avenue Orlando, Florida 32805",28.539918,-81.387951,(407) 872-0656
+B001268,"2400 John F. Kennedy Federal Building Boston, Massachusetts 02203",42.358635,-71.056699,(617) 565-3170
+B000944,"1301 East Ninth Street, Suite 1710 Cleveland, Ohio 44114",41.504665,-81.690709,(216) 522-7272
+B000944,"425 Walnut Street, Suite 2310 Cincinnati, Ohio 45202",39.100490,-84.511179,513) 684-1021
+B000944,"200 North High Street, Room 614 Columbus, Ohio 43215",39.966456,-83.001443,(614) 469-2083
+B000944,"205 West 20th Street Suite M280 Lorain, Ohio 44052",41.452359,-82.166923,(440) 242-4100
+B001260,"111 South Orange Avenue, Floor 2R, Suite 202W Sarasota, Florida 34236",27.338060,-82.546809,(941) 951-6643
+B001260,"2424 Manatee Avenue West, Suite 104 Bradenton, Florida 34205",27.495571,-82.585416,(941) 747-9081
+B001275,"101 NW Martin Luther King Jr. Boulevard, Room 124 Evansville, Indiana 47708",37.974160,-87.568576,(812) 465-6484
+B001275,"901 Wabash Avenue, Suite 140 Terre Haute, Indiana 47807",39.466687,-87.404349,(812) 232-0523
+B001276,"1280 Titus Avenue Rochester, New York 14617",43.211157,-77.581718,(585) 336-7291
+B001276,"100 South Clinton Street, Room 1340 Syracuse, New York 13261",43.050480,-76.153540,(315) 423-5657
+B001248,"1660 South Stemmons Freeway, Suite 230 Lewisville, Texas 75067",33.019462,-96.983712,(972) 434-9700
+B001248,"1100 Circle Drive, Suite 200 Ft. Worth, Texas 76119",32.674627,-97.299857,(817) 531-8454
+B001135,"201 North Front Street, Suite 809 Wilmington, North Carolina 28401",34.237670,-77.948998,(910) 251-1058
+B001135,"151 Patton Avenue, Suite 204 Asheville, North Carolina 28801",35.593897,-82.557536,(828) 350-2437
+B001135,"181 South Street, Room 222 Gastonia, North Carolina 28052",35.264324,-81.183850,(704) 833-0854
+B001135,"100 Coast Line Street, Room 210 Rocky Mount, North Carolina 27804",35.937808,-77.798189,(252) 977-9522
+B001149,"8900 Keystone at the Crossing, #1050 Indianapolis, Indiana 46240-7646",39.917908,-86.109673,(317) 848-0201
+B001149,"209 South Washington Street Marion, Indiana 46952-3803",40.559585,-85.659779,(765) 662-6770
+B001251,"216 North East Nash Street, Suite B Wilson, North Carolina 27893",35.727093,-77.912327,(252) 237-9816
+B001251,"309 West 3rd Street Weldon, North Carolina 27890",36.428232,-77.600962,(252) 538-4123
+C000059,"3400 Central Avenue, Suite 200 Riverside, California 92506",33.953572,-117.385432,(951) 784-4300
+C000059,"26111 Antonia Parkway, Suite 300 Las Flores, California 92688",33.583173,-117.630894,(949) 888-8498
+C000071,"135 Ashman Street Midland, Michigan 48640",43.613427,-84.245219,(989) 631-2552
+C000071,"121 East Front Street, Suite 202 Traverse City, Michigan 49684",44.764066,-85.623107,(231) 929-4711
+C001064,"610 Newport Center Drive, Suite 330 Newport Beach, California 92660",33.617865,-117.872733,(949) 756-2244
+C001082,"6363 DeZavala Road, Suite 105 San Antonio, Texas 78249",29.563019,-98.613049,(210) 561-8855
+C001082,"1313 SE Military Drive, #101 San Antonio, Texas 78214",29.354179,-98.477515,(210) 922-7826
+C001046,"4201 Dominion Boulevard, #110 Glen Allen, Virginia 23060",37.651699,-77.585360,(804) 747-4073
+C001046,"763 Madison Road, Suite 207 Culpeper, Virginia 22701",38.456682,-78.018401,(540) 825-8960
+C000127,"915 Second Avenue, Suite 3206 Seattle, Washington 98174",47.604596,-122.334629,(206) 220-6400
+C000127,"West 920 Riverside, Suite 697 Spokane, Washington 99201",47.662260,-117.432589,(509) 353-2507
+C000127,"1313 Officer's Row Vancouver, Washington 98661",45.627915,-122.657293,(360) 696-7838
+C000127,"825 Jadwin Avenue, Suite 205 Richland, Washington 99352",46.277406,-119.275233,(509) 946-8106
+C000127,"2930 Wetmore Avenue, Suite 9B Everett, Washington 98201",47.978787,-122.207227,(425) 303-0114
+C000127,"950 Pacific Avenue, Suite 615 Tacoma, Washington 98402",47.254170,-122.438763,(253) 572-2281
+C001047,"4815 MacCorkle Avenue, SE Charleston, West Virginia 25304",38.320541,-81.580141,(304) 925-5964
+C001047,"300 Foxcroft Avenue, Suite 102 Martinsburg, West Virginia 25401",39.461332,-77.987294,(304) 264-8810
+C001036,"301 East Carrillo Street, Suite A Santa Barbara, California 93101",34.424805,-119.698351,(805) 730-1710
+C001036,"1411 Marsh Street, Suite 205 San Luis Obispo, California 93401",35.284147,-120.654190,(805) 546-8348
+C001036,"2675 North Ventura Road, Suite 105 Port Hueneme, California 93041",34.177985,-119.195100,(805) 985-6807
+C001037,"110 1st Street Cambridge, Massachusetts 02141",42.367768,-71.077600,(617) 621-6208
+C001037,"Roxbury Community College, Campus Library Room 211 Roxbury, Massachusetts 02120",42.328735,-71.084109,(617) 621-6208
+C000141,"100 South Charles Street, Tower I, Suite 1710 Baltimore, Maryland 21201",39.294877,-76.622279,(410) 962-4436
+C000141,"10201 Martin Luther King Jr. Highway, Suite 210 Bowie, Maryland 20720",38.955944,-76.827137,(301) 860-0414
+C000141,"129 East Main Street, Suite 115 Salisbury, Maryland 21803",38.365520,-75.599917,(410) 546-4250
+C000141,"13 Canal Street, Room 305 Cumberland, Maryland 21502",39.650638,-78.763624,(301) 777-2957
+C001050,"2222 M Street, Suite 305 Merced, California 95340",37.307256,-120.481866,(209) 383-4455
+C001050,"1010 10th Street, Suite 5800 Modesto, California 95354",37.640690,-121.000513,(209) 527-1914
+C001050,"401 North San Joaquin Street, Suite 109 Stockton, California 95202",37.957278,-121.288327,(209) 946-0361
+C001060,"8764 Manchester Road, Suite 203 St. Louis, Missouri 63144",38.612538,-90.347859,(314) 962-1523
+C001060,"517 Bailey Road Crystal City, Missouri 63019",38.219176,-90.386033,(636) 937-8039
+C001083,"201 North Walnut Street, Suite 107 Wilmington, Delaware 19801",39.738280,-75.549286,(302) 428-1902
+C000174,"301 North Walnut Street, Suite 102L-1 Wilmington, Delaware 19801",39.738775,-75.548981,(302) 573-6291
+C000174,"500 West Loockerman St., Suite 470 Dover, Delaware 19904",39.157084,-75.530377,302) 674-3308
+C000174,"12 The Circle Georgetown, Delaware 19947",38.689975,-75.385481,(302) 856-7690
+C001072,"300 East Fall Creek Parkway North Drive, #300 Indianapolis, Indiana 46205",39.806121,-86.151919,(317) 283-6516
+C001051,"1717 North IH 35, One Financial Center, Suite 303 Round Rock, Texas 78664",30.523248,-97.688994,(512) 246-1600
+C001051,"6544B S. General Bruce Drive Temple, Texas 76502",31.072257,-97.422488,(254) 933-1392
+C001070,"417 Lackawanna Avenue, Suite 303 Scranton, Pennsylvania 18503",41.407397,-75.666045,(570) 941-0930
+C001070,"817 East Bishop Street, Suite C Bellefonte, Pennsylvania 16823",40.913590,-77.764106,(814) 357-0314
+C001070,"17 South Park Row, Suite B-150 Erie, Pennsylvania 16501",42.128953,-80.085116,(814) 874-5080
+C001070,"840 Hamilton Street, Suite 301 Allentown, Pennsylvania 18101",40.601358,-75.474726,(610) 782-9470
+C001070,"Regional Enterprise Tower, 425 6th Ave., Ste. 2490 Pittsburgh, Pennsylvania 15219",40.443372,-79.981315,(412) 803-7370
+C001070,"2000 Market Street, Suite 1870 Philadelphia, Pennsylvania 19103",39.953570,-75.173247,(215) 405-9660
+C001070,"22 South Third Street, Suite 6A Harrisburg, Pennsylvania 17101",40.260408,-76.879837,(717) 231-7540
+C001075,"5555 Hilton Avenue, #100 Baton Rouge, Louisiana 70808",30.423529,-91.133422,(225) 929-7711
+C001075,"29261 Frost Road Livingston, Louisiana 70754",30.483284,-90.748179,(225) 686-4413
+C001066,"4144 North Armenia Avenue, Suite 300 Tampa, Florida 33607",27.976911,-82.484773,(813) 871-2817
+C000266,"441 Vine Street, Suite 3003 Cincinnati, Ohio 45202",39.100436,-84.512801,(513) 684-2723
+C001076,"51 South University Avenue, Suite 317 Provo, Utah 84601",40.233000,-111.658696,(801) 851-2500
+C001076,"3895 West 7800 South, Suite 201 West Jordan, Utah 84088",40.609422,-111.983750,(801) 282-5502
+C000286,"100 Galleria, Suite 1340 Atlanta, Georgia 30339",33.883394,-84.462257,(770) 763-9090
+C000286,"300 Mulberry Street, Suite 502 Macon, Georgia 31201",32.835472,-83.623856,(478) 741-1417
+C000286,"585 South Main Street Moultrie, Georgia 31776",31.174037,-83.788895,(229) 985-2112
+C000286,"3633 Wheeler Road, Suite 270 Augusta, Georgia 30909",33.482470,-82.089477,(706) 650-1555
+C001058,"1010 Monarch Street, Suite 310 Lexington, Kentucky 40513",38.020174,-84.554661,(859) 219-1366
+C000380,"Nisky Center, Suite 207 St. Thomas, Virgin Islands 00802",18.344030,-64.922789,(340) 774-4408
+C000380,"Sunshine Mall, #1 Estate Cane, Space #204 & 205 St. Croix, Virgin Islands 00840",17.712462,-64.853434,(340) 778-5900
+C001080,"4401 Santa Anita Avenue, Suite 201 El Monte, California 91731-1607",34.086365,-118.028875,(626) 448-1271
+C001080,"4716 Cesar Chavez Avenue East Los Angeles, California 90022",34.040592,-118.164324,(323) 307-9904
+C001084,"1070 Main Street, Suite 300 Pawtucket, Rhode Island 02860",41.860951,-71.399012,(401) 729-5600
+C001085,"400 Monroe Street, Suite 290 Detroit, Michigan 48226",42.334455,-83.043541,(313) 962-7700
+C001067,"123 Linden Boulevard, Fourth Floor Brooklyn, New York 11226",40.652415,-73.954213,(718) 287-1142
+C000488,"625 North Euclid Street, Suite 326 St. Louis, Missouri 63108",38.650574,-90.260619,(314) 367-1970
+C000488,"8021 West Florissant Avenue, Suite #F St. Louis, Missouri 63136",38.728256,-90.277387,(314) 383-5240
+C001061,"101 West 31 Street Kansas City, Missouri 64108",39.071066,-94.586699,(816) 842-4545
+C001061,"211 West Maple Avenue Independence, Missouri 64050",39.092778,-94.417287,(816) 833-4545
+C000537,"1225 Lady Street, Suite 200 Columbia, South Carolina 29201",34.002788,-81.033665,(803) 799-1100
+C000537,"181 East Evans Street, Suite 314 Florence, South Carolina 29506",34.197200,-79.764314,(843) 662-1212
+C000537,"176 Brooks Boulevard Santee, South Carolina 29142",33.474320,-80.481760,(803) 854-4700
+C000542,"10 West Market Street, 1650 Market Tower Indianapolis, Indiana 46204",39.766910,-86.149964,(317) 554-0750
+C000556,"2102 North Elm Street, Suite B Greensboro, North Carolina 27408",36.101756,-79.787991,(336) 333-5005
+C000556,"222 Sunset Avenue, #101 Asheboro, North Carolina 27203-5658",35.705815,-79.816059,(336) 626-3060
+C000556,"1634 North Main Street, Suite 101 High Point, North Carolina 27262-2644",35.975908,-80.019066,(336) 886-5106
+C000556,"805 South Salisbury Avenue Granite Quarry, North Carolina 28072",35.611127,-80.434983,(704) 209-0426
+C000556,"124 Elm Street, PO Box 812 Graham, North Carolina 27253",36.027138,-79.379943,(336) 229-0159
+C000560,"1800 South Baltimore, Suite 800 Tulsa, Oklahoma 74119",36.135960,-95.986491,(918) 581-7651
+C000560,"100 North Broadway, Suite 1820 Oklahoma City, Oklahoma 73102",35.467828,-97.514468,(405) 231-4941
+C000567,"190 East Capitol Street, Suite 550 Jackson, Mississippi 39201",32.300066,-90.186382,(601) 965-4459
+C000567,"911 East Jackson Avenue, Suite 249 Oxford, Mississippi 38655",34.367196,-89.521179,(662) 236-1018
+C000567,"2012 15th Street, Suite 451 Gulfport, Mississippi 39501",30.369274,-89.086346,(228) 867-9710
+C001077,"9220 Kimmer Drive, Suite #220 Lone Tree, Colorado 80124",39.552582,-104.882127,(720) 283-9772
+C001068,"167 North Main Street, Suite 369 Memphis, Tennessee 38103",35.149780,-90.050969,(901) 544-4131
+C001053,"2424 Springer Drive, Suite 201 Norman, Oklahoma 73069",35.205166,-97.477401,(405) 329-6500
+C001053,"711 Southwest D Avenue, Suite 201 Lawton, Oklahoma 73501",34.604088,-98.398710,(580) 357-2131
+C001053,"100 East 13th Street, Suite 213 Ada, Oklahoma 74820",34.772360,-96.678493,(580) 436-5375
+C001035,"202 Harlow Street, Room 204 Bangor, Maine 04402",44.804895,-68.773298,(207) 945-0417
+C001035,"68 Sewall Street, Room 507 Augusta, Maine 04330",44.310675,-69.783264,(207) 622-8414
+C001035,"160 Main Street Biddeford, Maine 04005",43.493172,-70.454745,(207) 283-1101
+C001035,"55 Lisbon Street Lewiston, Maine 04240",44.097695,-70.217755,(207) 784-6969
+C001035,"25 Sweden Street, Suite A Caribou, Maine 04736",46.860357,-68.012979,(207) 493-7873
+C001035,"One Canal Plaza, Suite 802 Portland, Maine 04101",43.657636,-70.254799,(207) 780-3575
+C001062,"6 Desta Drive, Suite 2000 Midland, Texas 79705",32.030168,-102.087473,(432) 687-2390
+C001062,"33 East Twohig, Suite 307 San Angelo, Texas 76903",31.461442,-100.435516,(325) 659-4010
+C001062,"501 Center Avenue Brownwood, Texas 76801",31.719791,-98.983130,(325) 646-1950
+C001062,"411 West 8th Street, 5th Floor Odessa, Texas",31.849310,-102.374850,(432) 331-9667
+C001062,"104 West Sandstone Llano, Texas 78643",30.749202,-98.676086,(325) 247-2826
+C001078,"4115 Annandale Road, Suite 103 Annandale, Virginia 22003",38.834411,-77.197459,(703) 256-3071
+C001078,"4308 Ridgewood Center Drive Woodbridge, Virginia 22192",38.673251,-77.338917,(703) 670-4989
+C000705,"220 East Rosser Avenue, Room 228 Bismarck, North Dakota 58501",46.808605,-100.788692,(701) 258-4648
+C000705,"657 2nd Avenue North, Room 306 Fargo, North Dakota 58102",46.878017,-96.789864,(701) 232-8030
+C000705,"33 South 3rd Street, Suite B Grand Forks, North Dakota 58201",47.924959,-97.029977,(701) 775-9601
+C000705,"100 1st Street SW, Room 105 Minot, North Dakota 58701",48.235282,-101.294516,(701) 852-0703
+C000714,"231 West Lafayette Boulevard, 669 Federal Building Detroit, Michigan 48226",42.330822,-83.049790,(313) 961-5670
+C000714,"2615 West Jefferson Trenton, Michigan 48183",42.143205,-83.177415,(734) 675-4084
+C001088,"1105 North Market Street, Suite 2000 Wilmington, Delaware 19801-1233",39.746580,-75.547049,(302) 573-6345
+C001088,"24 NW Front Street, Windsor Building, Suite 101 Milford, Delaware 19963",38.913345,-75.413767,(302) 424-8090
+C000754,"605 Church Street Nashville, Tennessee 37219",36.162524,-86.781635,(615) 736-5295
+C001071,"10 West MLK Boulevard, 6th Floor Chattanooga, Tennessee 37402",35.045759,-85.309608,(423) 756-2757
+C001071,"800 Market Street, Suite 121 Knoxville, Tennessee 37902",35.962198,-83.917778,(865) 637-4180
+C001071,"2525 Highway 75, Suite 126 Blountville, Tennessee 37617",36.478213,-82.411779,(423) 323-1252
+C001071,"109 South Highland Avenue, B8 Jackson, Tennessee 38301",35.613631,-88.819413,(731) 424-9655
+C001071,"3322 West End Avenue, Suite 610 Nashville, Tennessee 37203",36.140583,-86.817782,(615) 279-8125
+C001071,"100 Peabody Place, Suite 1125 Memphis, Tennessee 38103",35.140920,-90.054413,(901) 683-1910
+C001056,"221 West 6th Street, Suite 1530 Austin, Texas 78701",30.268515,-97.744436,(512) 469-6034
+C001056,"5001 Spring Valley Road, Suite 1125E Dallas, Texas 75244",32.939658,-96.825376,(972) 239-1310
+C001056,"5300 Memorial Drive, Suite 980 Houston, Texas 77007",29.761700,-95.415646,(713) 572-3337
+C001056,"600 Navarro, Suite 210 San Antonio, Texas 78205",29.426561,-98.489767,(210) 224-7485
+C001056,"222 East Van Buren Street, Suite 404 Harlingen, Texas 78550",26.191675,-97.694197,(956) 423-0162
+C001056,"1500 Broadway, Suite 1230 Lubbock, Texas 79401",33.584508,-101.851440,(806) 472-7533
+C001056,"100 East Ferguson Street, Suite 1004 Tyler, Texas 75702",32.351718,-95.300535,(903) 593-0902
+C001059,"855 M Street, Suite 940 Fresno, California 93721",36.734621,-119.785456,(559) 495-1620
+C001059,"2700 M Street, Suite 225 Bakersfield, California 93301",35.383931,-119.015216,(661) 869-1620
+C000794,"144 Lincoln Place Court, Suite 4 Belleville, Illinois 62221",38.518591,-89.937141,(618) 233-8026
+C000794,"2060 Delmar Avenue, Suite B Granite City, Illinois 62040",38.702889,-90.148818,(618) 451-7065
+C000794,"250 West Cherry Street Carbondale, Illinois 62901",37.723370,-89.217744,(618) 529-3791
+C000794,"8787 State Street, Suite 102 East St. Louis, Illinois 62203",38.589202,-90.061219,(618) 397-8833
+C000794,"1330 Swanwick Street Chester, Illinois 62233",37.914686,-89.821013,(618) 826-3043
+C000794,"201 East Nolen Street West Frankfort, Illinois 62896",37.899288,-88.926582,(618) 937-6402
+C001069,"101 Water Street, Suite 301 Norwich, Connecticut 06360",41.523931,-72.078233,(860) 886-0139
+C001069,"77 Hazard Ave, Unit J Enfield, Connecticut 06082",41.989428,-72.570746,(860) 741-6011
+C000880,"251 East Front Street, Suite 205 Boise, Idaho 83702",43.608727,-116.195048,(208) 334-1776
+C000880,"275 South 5th Avenue, Suite 225 Pocatello, Idaho 83201",42.865284,-112.442077,(208) 236-6775
+C000880,"610 Hubbard Street, Suite 209 Coeur d' Alene, Idaho 83814",47.678317,-116.794629,(208) 664-5490
+C000880,"202 Falls Avenue, #2 Twin Falls, Idaho 83301",42.577952,-114.477647,(208) 734-2515
+C000880,"313 D Street, Suite 105 Lewiston, Idaho 83501",46.421949,-117.029147,(208) 743-1492
+C000880,"410 Memorial Drive, Suite 204 Idaho Falls, Idaho 83402",43.493752,-112.042938,(208) 522-9779
+C001086,"6448 Main Street, Suite 6 North Branch, Minnesota 55056",45.511438,-92.977975,(651) 237-8220
+C001087,"112 South 1st Cabot, Arkansas 72023",34.973357,-92.016438,(501) 843-3043
+C001087,"2400 Highland Drive, Suite 3000 Jonesboro, Arkansas 72401",35.821218,-90.676492,(870) 203-0540
+C001045,"1061 Riverside Avenue, Suite 100 Jacksonville, Florida 32204",30.313251,-81.678069,(904) 598-0481
+C001045,"212 North Marion Avenue, Suite 209 Lake City, Florida 32055",30.191005,-82.637168,(386) 365-3316
+C001081,"647 Main Street, Suite 401 Johnstown, Pennsylvania 15901",40.323749,-78.914550,(814) 535-2642
+C001081,"20 North Gallatin Avenue, Suite 216 Uniontown, Pennsylvania 15401",39.902110,-79.724172,(724) 434-2620
+C001038,"74-09 37th Avenue, Suite 306B Jackson Heights, New York 11372",40.748983,-73.891611,(718) 779-1400
+C001038,"2800 Bruckner Boulevard, Suite 301 Bronx, New York 10465",40.831165,-73.831063,(718) 931-1400
+C001038,"177 Dreiser Loop, Room 3 Bronx, New York 10475",40.877338,-73.829507,(718) 320-2314
+C001063,"615 East Houston Street, Suite 451 San Antonio, Texas 78205",29.426548,-98.486715,(210) 271-2851
+C001063,"117 East Tom Landry Mission, Texas 78572",26.215893,-98.325419,(956) 424-3942
+C001063,"602 East Calton Road, Suite 2 Laredo, Texas 78041",27.542316,-99.490088,(956) 725-0639
+C001063,"100 South Austin Street, Suite 1 Seguin, Texas 78155",29.568827,-97.964637,(830) 401-0457
+C001063,"100 North FM 3167 Rio Grande City, Texas 78582",26.380292,-98.859363,(956) 487-5603
+C001048,"10000 Memorial Drive, #620 Houston, Texas 77024",29.778631,-95.480644,(713) 682-8828
+C000984,"1010 Park Avenue, Suite 105 Baltimore, Maryland 21201",39.304242,-76.620035,(410) 685-9199
+C000984,"754 Frederick Road Catonsville, Maryland 21228",39.271701,-76.733082,(410) 719-8777
+C000984,"8267 Main Street, Room 102 Ellicott City, Maryland 21043",39.267664,-76.799104,(410) 465-8259
+D000096,"3333 West Arthington Street, #130 Chicago, Illinois 60624",41.870011,-87.709087,(773) 533-7520
+D000096,"2301 Roosevelt Road Broadview, Illinois 60155",41.863868,-87.860502,(708) 345-6857
+D000603,"300 Buttermilk Pike, Suite 101 Ft. Mitchell, Kentucky 41017",39.043000,-84.571013,(859) 426-0080
+D000603,"1405 Greenup Avenue, Suite 236 Ashland, Kentucky 41101",38.480640,-82.640933,(606) 324-9898
+D000603,"108 West Jefferson Street La Grange, Kentucky 40031",38.408467,-85.379438,(502) 222-2233
+D000603,"201 Government Street, Suite 102 Maysville, Kentucky 41056",38.645687,-83.761041,(606) 564-6004
+D000603,"400 North Main Street, Suite 145 Williamstown, Kentucky 41097",38.641071,-84.560101,(859) 824-3320
+D000598,"2700 Adams Avenue San Diego, California 92116",32.762850,-117.135024,(619) 280-5353
+D000191,"405 East 8th Avenue, #2030 Eugene, Oregon 97401",44.051038,-123.086434,(541) 465-6732
+D000191,"125 Central, #350 Coos Bay, Oregon 97420",43.367902,-124.213420,(541) 269-2609
+D000191,"612 SE Jackson Street, #9 Roseburg, Oregon 97470",43.208668,-123.344268,(541) 440-3523
+D000197,"600 Grant Street, Suite 202 Denver, Colorado 80203",39.725809,-104.983590,(303) 844-4988
+D000216,"59 Elm Street New Haven, Connecticut 06510",41.307728,-72.922965,(203) 562-3718
+D000595,"40 W. Broad Street Suite 320 Greenville, South Carolina 29601",34.847764,-82.400981,(864) 233-5366
+D000595,"39 Broad Street Suite 300, 200 East Bay Street Charleston, South Carolina 29401",32.779693,-79.934783,(843) 727-4525
+D000595,"1901 Main Street, Suite 1475 Columbia, South Carolina 29201",34.010752,-81.037830,(803) 771-6112
+D000612,"1040 East Herndon Avenue, #201 Fresno, California 93720",36.837496,-119.770334,(559) 449-2490
+D000612,"3509 Coffee Road, Suite D3 Modesto, California 95355",37.689631,-120.976092,(209) 579-5458
+D000604,"3900 Hamilton Boulevard, Suite 207 Allentown, Pennsylvania 18103",40.574513,-75.534295,(610) 770-3490
+D000604,"206 Main Street East Greenville, Pennsylvania 18041",40.404226,-75.500696,(215) 541-4106
+D000616,"1804 Carmack Boulevard, Suite A Columbia, Tennessee 38401",35.600665,-87.036442,(931) 490-8699
+D000610,"2500 North Military Trail, Suite 490 Boca Raton, Florida 33431",26.372737,-80.121012,(561) 988-6302
+D000299,"8669 NW 36th Street, Suite 100 Doral, Florida 33166",25.809982,-80.336948,(305) 470-8555
+D000327,"1019 Pacific Avenue, Suite 806 Tacoma, Washington 98402",47.254171,-122.438744,(253) 593-6536
+D000327,"345 6th Street, Suite 500 Bremerton, Washington 98337",47.567299,-122.625473,(360) 479-4011
+D000327,"332 East 5th Street Port Angeles, Washington 98362-3207",48.113773,-123.432415,(360) 452-3370
+D000355,"19855 West Outer Drive, Suite 103-E Dearborn, Michigan 48124",42.303413,-83.263347,(313) 278-2936
+D000355,"23 East Front Street, #103 Monroe, Michigan 48161",41.916289,-83.396488,(734) 243-1849
+D000355,"301 West Michigan Avenue, Suite 305 Ypsilanti, Michigan 48197",42.240949,-83.616099,(734) 481-1100
+D000399,"300 East 8th Street, #763 Austin, Texas 78701",30.269235,-97.739605,(512) 916-5921
+D000613,"650 Dundee Road, Suite 380 Northbrook, Illinois 60062",42.137958,-87.797260,(847) 940-0202
+D000607,"207 West Colfax Avenue South Bend, Indiana 46601-1601",41.677726,-86.252255,(574) 288-2780
+D000607,"300 East Broadway Suite #102 Logansport, Indiana 46947",40.754053,-86.365806,(574) 753-2671
+D000482,"225 Ross Street, 5th Floor Pittsburgh, Pennsylvania 15219",40.436779,-79.996970,(412) 261-5091
+D000482,"11 Duff Road Penn Hills, Pennsylvania 15235",40.464478,-79.828546,(412) 241-6055
+D000482,"627 Lysle Boulevard McKeesport, Pennsylvania 15132",40.352088,-79.859188,(412) 664-4049
+D000482,"1350 Fifth Avenue Coraopolis, Pennsylvania 15108",40.515217,-80.158360,(412) 264-3460
+D000492,"510 East Foothill Boulevard, Suite 201 San Dimas, California 91773",34.123094,-117.798020,(909) 575-6226
+D000614,"208 Grand Avenue Wausau, Wisconsin 54403",44.955620,-89.624227,(715) 298-9344
+D000615,"1028 Hayne Avenue Aiken, South Carolina 29801",33.563251,-81.733699,(803) 649-5571
+D000615,"303 West Beltline Boulevard Anderson, South Carolina 29625",34.547510,-82.679097,(864) 224-7401
+D000615,"200 Courthouse Public Square Laurens, South Carolina 29360",34.501142,-82.030695,(864) 681-1028
+D000533,"800 Market Street, Suite 110 Knoxville, Tennessee 37902",35.962198,-83.917778,(865) 523-3772
+D000533,"Blount County Courthouse, 331 Court Street Maryville, Tennessee 37804",35.776887,-83.925786,(865) 984-5464
+D000533,"6 East Madison Avenue Athens, Tennessee 37303-4297",35.442192,-84.593187,(423) 745-4671
+D000563,"230 South Dearborn Street, Suite 3892 Chicago, Illinois 60604",41.879079,-87.629330,(312) 353-4952
+D000563,"525 South 8th Street Springfield, Illinois 62703",39.796844,-89.645166,(217) 492-4062
+D000563,"250 W. Cherry Street, Suite 115D Carbondale, Illinois 62901",37.723370,-89.217744,(618) 351-1122
+D000563,"1504 Third Avenue, Suite 227 Rock Island, Illinois 61201",41.509298,-90.578585,(309) 786-5173
+E000290,"8730 Georgia Avenue, Suite 209 Silver Spring, Maryland 20910",38.998075,-77.030340,(301) 562-7960
+E000290,"5001 Silver Hill Road, Suite 106 Suitland, Maryland 20746",38.851035,-76.921711,(301) 516-7601
+E000288,"2100 Plymouth Avenue North Minneapolis, Minnesota 55411",44.991519,-93.307104,(612) 522-1212
+E000291,"406 West Broad Street Dunn, North Carolina 28334",35.310205,-78.613669,(910) 230-1910
+E000172,"555 Independence Street, Suite 1400 Cape Girardeau, Missouri 63703",37.303993,-89.524815,(573) 335-0101
+E000172,"1301 Kingshighway Rolla, Missouri 65401",37.943326,-91.789774,(573) 364-2455
+E000172,"22 East Columbia Farmington, Missouri 63640",37.780453,-90.420685,(573) 756-9755
+E000172,"35 Court Square, Suite 300 West Plains, Missouri 65775",36.727941,-91.852966,(417) 255-1515
+E000179,"3655 Johnson Avenue Bronx, New York 10463",40.888056,-73.909357,(718) 796-9700
+E000179,"261 West Nyack Road West Nyack, New York 10994",41.096575,-73.992907,(845) 735-1000
+E000179,"6 Gramatan Avenue, Suite 205 Mt. Vernon, New York 10550",40.912252,-73.837244,(914) 699-4100
+H001041,"400 South Virginia Street, Suite 738 Reno, Nevada 89501",39.521809,-119.811030,(775) 686-5770
+H001041,"333 South Las Vegas Boulevard, Suite 8203 Las Vegas, Nevada 89101",36.166466,-115.142403,(702) 388-6605
+E000285,"400 South Kendrick Avenue, Suite 303 Gillette, Wyoming 82716",44.291123,-105.502534,(307) 682-6268
+E000285,"2120 Capitol Avenue, Suite 2007 Cheyenne, Wyoming 82001",41.137379,-104.818382,(307) 772-2477
+E000285,"100 East B Street, Suite 3201 Casper, Wyoming 82602",42.851996,-106.325099,(307) 261-6572
+E000285,"1285 Sheridan Avenue, Suite 210 Cody, Wyoming 82414",44.526088,-109.062506,(307) 527-9444
+E000285,"1110 Maple Way, Suite G Jackson, Wyoming 83002",43.470302,-110.787287,(307) 739-9507
+E000215,"698 Emerson Street Palo Alto, California 94301",37.443196,-122.160431,(650) 323-2984
+F000010,"PO Box Drawer X Pago Pago, American Samoa 96799",-14.276200,-170.695610,684) 633-1372
+F000460,"1805 Ruben Torres, Suite B-27 Brownsville, Texas 78521",25.951277,-97.489798,(956) 544-8801
+F000460,"101 North Shoreline Boulevard Corpus Christi, Texas 78404",27.791565,-97.392992,(361) 884-2222
+F000030,"100 West Alisal Street Salinas, California 93901",36.673508,-121.657008,(831) 424-2229
+F000030,"701 Ocean Street, Suite 318C Santa Cruz, California 95060",36.978307,-122.020877,(831) 429-1976
+F000043,"4104 Walnut Street Philadelphia, Pennsylvania 19104",39.954444,-75.205285,(215) 387-6404
+F000043,"6632 Germantown Avenue Philadelphia, Pennsylvania 19119",40.051397,-75.185092,(215) 848-9386
+F000062,"One Post Street, Suite 2450 San Francisco, California 94104",37.789108,-122.402048,(415) 393-0707
+F000062,"2500 Tulare Street, Suite 4290 Fresno, California 93721",36.737552,-119.784850,(559) 485-7430
+F000062,"11111 Santa Monica Boulevard, Suite 915 Los Angeles, California 90025",34.047593,-118.444496,(310) 914-7300
+F000062,"750 B Street, Suite 1030 San Diego, California 92101",32.717808,-117.157877,(619) 231-9712
+F000116,"333 F Street, Suite A Chula Vista, California 91910",32.640857,-117.081384,(619) 422-5963
+F000116,"1101 Airport Road, Suite D Imperial, California 92251",32.834685,-115.572212,(760) 355-8800
+F000458,"109 South Highland, Room #B-7 Jackson, Tennessee 38301",35.613631,-88.819413,(731) 423-4848
+F000451,"1717 Langhorne Newtown Road, Suite 400 Langhorne, Pennsylvania 19047",40.215248,-74.931368,(215) 579-8102
+F000444,"1640 South Stapley Drive, Suite 215 Mesa, Arizona 85204",33.384228,-111.805667,(480) 833-0092
+F000459,"900 Georgia Avenue, Suite 126 Chattanooga, Tennessee 37402",35.045666,-85.308309,(423) 756-2342
+F000459,"200 Administration Road, Suite 100 Oak Ridge, Tennessee 37830",36.024295,-84.236625,(865) 576-1976
+F000456,"6425 Youree Drive, Suite 350 Shreveport, Louisiana 71105",32.448082,-93.721075,(318) 798-2254
+F000456,"103 North Third Street Leesville, Louisiana 71446",31.143413,-93.261239,(337) 238-0778
+F000456,"700 Benton Road Bossier City, Louisiana 71111",32.525112,-93.717280,(318) 549-1712
+F000461,"4001 29th Street, Suite 116 Bryan, Texas 77802",30.644991,-96.332943,(979) 703-4037
+F000461,"115 South Main Street, Suite 202 Cleburne, Texas 76033",32.346603,-97.386548,(817) 774-2551
+F000461,"600 Austin Avenue, Suite 29 Waco, Texas 76710",31.555877,-97.132865,(254) 732-0748
+F000445,"505 Independence Parkway, Suite 104 Chesapeake, Virginia 23320",36.761008,-76.258553,(757) 382-0080
+F000445,"425-H South Main Street Emporia, Virginia 23847",36.685205,-77.543206,(434) 634-5575
+F000445,"9401 Courthouse Road, Suite 201 Chesterfield, Virginia 23832",37.387083,-77.517193,(804) 318-1363
+F000449,"301 South 13th Street, Suite 100 Lincoln, Nebraska 68508",40.811247,-96.702587,(402) 438-1598
+F000449,"125 South 4th Street, Suite 101 Norfolk, Nebraska 68701",42.032339,-97.411878,(402) 379-2064
+F000449,"629 North Broad Street Fremont, Nebraska 68025",41.435223,-96.498504,(402) 727-0888
+F000450,"6000 Meadowbrook Mall, Suite 3 Clemmons, North Carolina 27012",36.034050,-80.381009,(336) 778-0211
+F000450,"240 Highway 105 Extension, Suite 200 Boone, North Carolina 28607",36.214671,-81.668769,(828) 265-0240
+F000339,"29 Crafts Street Newton, Massachusetts 02458",42.354634,-71.200249,(617) 332-3920
+F000339,"29 Broadway, Suite 310 Taunton, Massachusetts 02780",41.903461,-71.093449,(508) 822-4796
+F000339,"558 Pleasant Street, #309 New Bedford, Massachusetts 02740",41.634399,-70.926857,(508) 999-6462
+F000457,"60 East Plato Boulevard, Suite 220 St. Paul, Minnesota 55107",44.937681,-93.085163,(651) 221-1016
+F000457,"208 South Minnesota Avenue, Suite 6 St. Peter, Minnesota 56082",44.324849,-93.956612,(507) 931-5813
+F000457,"916 West St. Germain Street, Suite 110 St. Cloud, Minnesota 56301",45.559079,-94.162998,(320) 251-2721
+F000457,"515 West 1st Street, Suite 104 Duluth, Minnesota 55802",46.782682,-92.105779,(218) 722-2390
+F000448,"7121 West Bell Road, Suite 200 Glendale, Arizona 85308",33.638177,-112.211643,(623) 776-7911
+F000372,"30 Schuyler Place, 2nd Floor Morristown, New Jersey 07960",40.797055,-74.483115,(973) 984-0711
+F000455,"4834 Richmond Road, Suite 150 Warrensville Heights, Ohio 44128",41.429171,-81.497929,(216) 522-4900
+G000021,"2829 Townsgate Road, Suite 315 Thousand Oaks, California 91361-3018",34.153478,-118.824706,(805) 497-2224
+G000021,"485 Alisal Road, Unit 144 Solvang, California 93463",34.595420,-120.138250,(805) 686-2525
+G000559,"1981 North Broadway, Suite 220 Walnut Creek, California 94596",37.906336,-122.061415,(925) 932-8899
+G000559,"420 West 3rd Street Antioch, California 94509",38.016188,-121.811577,(925) 757-7187
+G000559,"609 Jefferson Street Fairfield, California 94533",38.248319,-122.041914,(707) 438-1822
+G000562,"123 North College Avenue, Suite 220 Ft. Collins, Colorado 80524",40.587477,-105.077117,(970) 221-7110
+G000548,"266 Harristown Rd, Suite 104 Glen Rock, New Jersey 07452",40.951824,-74.136192,(201) 444-5454
+G000548,"93 Main Street Newton, New Jersey 07860",41.055948,-74.754653,(973) 300-2000
+G000549,"111 East Uwchlan Avenue Exton, Pennsylvania 19341",40.060600,-75.653486,(610) 594-1415
+G000549,"840 North Park Road Wyomissing, Pennsylvania 19610",40.346724,-75.958445,(610) 376-7630
+G000549,"580 Main Street, Suite 4 Trappe, Pennsylvania 19426",40.200398,-75.479765,(610) 409-2780
+G000563,"1166 Military Road, Suite B Zanesville, Ohio 43701",39.979662,-82.021641,(740) 452-2279
+G000564,"136 Glen Street Glens Falls, New York 12801",43.309199,-73.643669,(518) 743-0964
+G000564,"2 Hudson Street Kinderhook, New York 12106",42.395100,-73.698424,(518) 610-8133
+G000564,"513 Broadway Saratoga Springs, New York 12866",43.084596,-73.784220,(518) 306-5450
+G000554,"3945 East Fort Lowell Road, Suite 211 Tucson, Arizona 85712",32.265144,-110.908240,(520) 881-3588
+G000554,"77 Calle Portal, Suite B-160 Sierra Vista, Arizona 85635",31.553895,-110.266972,(520) 459-3115
+G000555,"780 Third Avenue, Suite 2601 New York, New York 10017",40.754668,-73.971621,(212) 688-6262
+G000555,"1 Clinton Square, Room 821 Albany, New York 12207",42.653994,-73.750311,(518) 431-0120
+G000555,"726 Exchange Street, Suite 511 Buffalo, New York 14210",42.874631,-78.850478,(716) 854-9725
+G000555,"100 State Street, Room 4195 Rochester, New York 14614",43.157378,-77.614121,(585) 263-6250
+G000555,"100 South Clinton Street, Room 1470 Syracuse, New York 13261",43.050480,-76.153540,(315) 448-0470
+G000555,"155 Pinelawn Road, Suite 250 North Melville, New York 11747",40.772255,-73.405221,(631) 249-2825
+G000555,"PO Box 273 Lowville, New York 13367",43.743722,-75.634765,(315) 376-6118
+G000550,"219 Roswell Street Marietta, Georgia 30060",33.951317,-84.546002,(770) 429-1776
+G000550,"600 East 1st Street, Suite 301 Rome, Georgia 30161",34.255466,-85.168090,(706) 290-1776
+G000552,"1121 ESE Loop 323, #206 Tyler, Texas 75701",32.303699,-95.287506,(903) 561-6349
+G000552,"101 East Methvin, Suite 302 Longview, Texas 75601",32.496305,-94.739558,(903) 236-8597
+G000552,"300 East Shepherd, Suite 210 Lufkin, Texas 75901",31.337434,-94.726959,(936) 632-3180
+G000552,"102 West Houston Street Marshall, Texas 75670",32.544695,-94.367448,(903) 938-8386
+G000552,"101 West Main, Suite 160 Nacogdoches, Texas 75961",31.603996,-94.656179,(936) 715-9514
+G000544,"727 East Durango Boulevard, Suite B-124 San Antonio, Texas 78206",29.417842,-98.485776,(210) 472-6195
+G000289,"10 Franklin Road, SE, #540 Roanoke, Virginia 24011",37.269352,-79.940278,(540) 857-2672
+G000289,"7 Court Square Staunton, Virginia 24401",38.149043,-79.072429,(540) 885-3861
+G000289,"2 South Main Street, Suite A, 1st Floor Harrisonburg, Virginia 22801",38.421788,-78.872712,(540) 432-2391
+G000289,"916 Main Street, #300 Lynchburg, Virginia 24504",37.414657,-79.142152,(434) 845-8306
+G000565,"211 North Florence Street, Suite 3 Casa Grande, Arizona 85122",32.876615,-111.754114,(520) 836-5289
+G000565,"1515 East Cedar Avenue, #A6 Flagstaff, Arizona 86004",35.218011,-111.621119,(928) 214-6055
+G000565,"240 South Montezuma Street, #101 Prescott, Arizona 86303",34.539144,-112.470204,(928) 445-1683
+G000566,"104 South Main Street, Suite 803 Greenville, South Carolina 29601",34.849476,-82.399529,(864) 241-0175
+G000352,"130 South Main Street, 7th Floor Greenville, South Carolina 29601",34.849281,-82.399620,(864) 250-1417
+G000352,"530 Johnnie Dodds Boulevard, Suite 202 Mt. Pleasant, South Carolina 29464",32.805775,-79.887934,(843) 849-3887
+G000352,"508 Hampton Street, Suite 202 Columbia, South Carolina 29201",34.001833,-81.046418,(803) 933-0112
+G000352,"401 West Evans Street, Suite 226B Florence, South Carolina 29501",34.197060,-79.772826,(843) 669-1505
+G000352,"235 East Main Street, Suite 100 Rock Hill, South Carolina 29730",34.924258,-81.024975,(803) 366-2828
+G000352,"124 Exchange Street, Suite A Pendleton, South Carolina 29678",34.650765,-82.783337,(864) 646-4090
+G000377,"1701 River Run Road, Suite 407 Ft. Worth, Texas 76107",32.740430,-97.382492,(817) 338-0909
+G000386,"210 Walnut Street, Room 721 Des Moines, Iowa 50309",41.586919,-93.619925,(515) 288-1145
+G000386,"131 West 3rd Street, Suite 180 Davenport, Iowa 52801",41.522422,-90.574610,(563) 322-4331
+G000386,"150 1st Avenue NE, Suite 325 Cedar Rapids, Iowa 52401",41.978428,-91.669278,(319) 363-6832
+G000386,"320 6th Street, 120 Federal Building Sioux City, Iowa 51101",42.496312,-96.407470,(712) 233-1860
+G000386,"8 South 6th Street, 307 Federal Building Council Bluffs, Iowa 51501",41.261059,-95.852064,(712) 322-7103
+G000386,"531 Commercial Street, 210 Waterloo Building Waterloo, Iowa 50701",42.495169,-92.339825,(319) 232-6657
+G000546,"113 Blue Jay Drive, Suite 100 Liberty, Missouri 64068",39.242971,-94.448987,(816) 792-3976
+G000546,"201 South 8th Street, Room 330 St. Joseph, Missouri 64501",39.765723,-94.850710,(816) 233-9818
+G000560,"500 Jesse Jewell Parkway, Suite 301 Gainesville, Georgia 30503",34.295185,-83.829065,(770) 535-2592
+G000560,"702 South Thornton Avenue Dalton, Georgia 30720",34.762860,-84.971560,(706) 226-5320
+G000553,"3003 South Loop West, Suite 460 Houston, Texas 77054",29.677090,-95.424925,(713) 383-9234
+G000410,"256 North Sam Houston Parkway East, #29 Houston, Texas 77060",29.940302,-95.403673,(281) 999-5879
+G000410,"11811 I-10 East, #430 Houston, Texas 77029",29.773855,-95.240819,(713) 330-0761
+G000410,"909 Decker Drive, Suite 124 Baytown, Texas 77520",29.735597,-94.977671,(281) 420-0502
+G000567,"1501 North University, Suite 150 Little Rock, Arkansas 72207",34.765384,-92.340718,(501) 324-5941
+G000568,"323 West Main Street Abingdon, Virginia 24210",36.708547,-81.980979,(276) 525-1405
+G000568,"17 West Main Street Christiansburg, Virginia 24073",37.129563,-80.409111,(540) 381-5671
+G000551,"738 North 5th Avenue, Suite 110 Tucson, Arizona 85705",32.230860,-110.967131,(520) 622-6788
+G000551,"201 Bingham Avenue, Suite 2 Somerton, Arizona 85350",32.597480,-114.704288,(928) 343-7933
+G000569,"265 New Dorp Lane, 2nd Floor Staten Island, New York 10306",40.572371,-74.113281,(718) 351-1062
+G000570,"33 Lowell Street Manchester, New Hampshire 03101",42.993572,-71.461959,(603) 641-9536
+G000558,"1001 Center Street, Suite 300 Bowling Green, Kentucky 42101",36.993949,-86.444035,(270) 842-9896
+G000535,"2201 W. North Avenue Chicago, Illinois 60647",41.910368,-87.682504,(773) 342-0774
+H001049,"701 Green Valley Road, Suite 201 Greensboro, North Carolina 27408",36.089584,-79.824061,(336) 333-5311
+H001049,"310 New Bern Avenue, Suite 122 Raleigh, North Carolina 27601",35.780217,-78.634661,(919) 856-4630
+H001049,"1520 South Boulevard, Suite 205 Charlotte, North Carolina 28203",35.214331,-80.854873,(704) 334-2448
+H001049,"82 Patterson Avenue, Suite 635 Asheville, North Carolina 28801",35.585960,-82.630553,(828) 257-6510
+H001049,"301 South Evans Street, Suite 102 Greenville, North Carolina 27858",35.613111,-77.372508,(252) 754-0707
+H001063,"2321 East Rosecrans Avenue, Suite 3270 El Segundo, California 90245",33.901957,-118.382218,(310) 643-3636
+H001063,"544 North Avalon Boulevard, Suite 307 Wilmington, California 90744",33.776314,-118.262151,(310) 549-8282
+H000067,"104 North San Jacinto Street Rockwall, Texas 75087",32.931148,-96.459480,(972) 771-9118
+H000067,"101 East Pecan Street Sherman, Texas 75090",33.638564,-96.609772,(903) 892-1112
+H000067,"710 James Bowie Drive New Boston, Texas 75570-2328",33.472920,-94.406420,(903) 628-8309
+H000067,"320 Church Street, Suite 132 Sulphur Springs, Texas 75482-2606",33.139257,-95.600829,(903) 885-8138
+H000067,"1800 North Graves Street, Suite 101 McKinney, Texas 75069-3322",33.214955,-96.628843,(214) 726-9949
+H000067,"4303 Texas Boulevard, Suite 2 Texarkana, Texas 75503-3094",33.459378,-94.051693,(903) 794-4445
+H001050,"300 Ala Moana Boulevard, Room 4-104 Honolulu, Hawaii 96850",21.304233,-157.862977,(808) 541-2570
+H001051,"110 Genesee Street, Suite 110 Auburn, New York 13021",42.931207,-76.567274,(315) 793-8146
+H000206,"210 Walnut Street, Room 733 Des Moines, Iowa 50309",41.586919,-93.619925,(515) 284-4574
+H000206,"150 1st Avenue, NE, Suite 370 Cedar Rapids, Iowa 52401",41.978428,-91.669278,(319) 365-4504
+H000206,"1606 Brady Street, Suite 323 Davenport, Iowa 52803",41.536288,-90.574067,(563) 322-1338
+H000206,"350 West 6th Street, #315 Dubuque, Iowa 52001",42.498719,-90.667945,(563) 582-2130
+H000206,"320 6th Street, 110 Federal Building Sioux City, Iowa 51101",42.496312,-96.407470,(712) 252-1550
+H001045,"2507-A Old Brandon Road Pearl, Mississippi 39208",32.275457,-90.129141,(601) 932-2410
+H001045,"823 22nd Avenue Meridian, Mississippi 39301",32.365331,-88.700393,(601) 693-6681
+H001045,"1 Research Boulevard, Suite 206 Starkville, Mississippi 39759",33.470196,-88.790520,(662) 324-0007
+H001045,"230 South Whitworth Street Brookhaven, Mississippi 39601",31.578016,-90.443494,(601) 823-3400
+H001052,"100 Olde Point Village, Suite 101 Chester, Maryland 21619",38.975324,-76.289957,(410) 643-5425
+H001052,"15 East Churchville Road, Suite 102B Bel Air, Maryland 21014",39.534938,-76.347327,(410) 588-5670
+H001052,"212 West Main Street Suite, 204B Salisbury, Maryland 21801",38.365343,-75.602111,(443) 944-8624
+H001053,"1909 North Commercial Street Harrisonville, Missouri 64701",38.663025,-94.364246,(816) 884-3411
+H001053,"2409 Hyde Park Jefferson City, Missouri 65109",38.577338,-92.212994,(573) 634-4884
+H001053,"219 North Adams Street Lebanon, Missouri 65536",37.682509,-92.664339,(417) 532-5582
+H001053,"415 South Ohio, Suite 212B Sedalia, Missouri 65301",38.707573,-93.228196,(573) 634-4884
+H000324,"2701 West Oakland Park Boulevard, #200 Ft. Lauderdale, Florida 33311",26.165504,-80.179253,(954) 733-2800
+H000324,"100 NW 1st Avenue Delray Beach, Florida 33444",26.463648,-80.074180,(561) 243-7042
+H000329,"2715 St. Andrew's Loop, Suite D Pasco, Washington 99301-3386",46.251757,-119.114858,(509) 543-9396
+H000329,"402 E. Yakima Avenue, Suite 760 Yakima, Washington 98901",46.603293,-120.501390,(509) 452-3243
+H000338,"8402 Federal Building, 125 South State Street Salt Lake City, Utah 84138",40.756830,-111.888229,(801) 524-4380
+H000338,"1006 Federal Building, 324 25th Street Ogden, Utah 84401",41.215970,-112.006471,(801) 625-5672
+H000338,"51 South University Avenue, #320 Provo, Utah 84606",40.233000,-111.658696,(801) 375-7881
+H000338,"77 North Main Street, Suite 112 Cedar City, Utah 84720",37.678220,-113.061779,(435) 586-8435
+H000338,"197 East Tabernacle, #2 St. George, Utah 84770",37.127937,-113.622929,(435) 634-1795
+H001054,"255 Main Street, Suite 3232G Goshen, New York 10924",41.404522,-74.319071,(845) 291-4100
+H001055,"8485 West Sunset Road, Suite 300 Las Vegas, Nevada 89113",36.070356,-115.278170,(702) 387-4941
+H001046,"20 First Plaza NW, Suite 603 Albuquerque, New Mexico 87102",35.085584,-106.648985,(505) 346-6781
+H001046,"3211 Coors Boulevard SW, Suite B3 Albuquerque, New Mexico 87121",35.029145,-106.713821,(505) 877-4069
+H001036,"6510 Abrams Road, Suite 243 Dallas, Texas 75231",32.862936,-96.744303,(214) 349-9996
+H001036,"810 East Corsicana Street, Suite C Athens, Texas 75751",32.204170,-95.844551,(903) 675-8288
+H000528,"2635 Forest Avenue, Suite 100 Chico, California 95928",39.716747,-121.792258,(530) 893-8363
+H000528,"280 Hemsted Drive, Suite 105 Redding, California 96002",40.572930,-122.367283,(530) 223-5898
+H001056,"750 Anderson Street, Suite B Vancouver, Washington 98661",45.627714,-122.664579,(360) 695-6292
+H001038,"726 Exchange Street, Suite 601 Buffalo, New York 14210",42.874631,-78.850478,(716) 852-3501
+H001038,"2 East 2nd Street, Suite 300 Jamestown, New York 14701",42.095519,-79.240936,(716) 484-0729
+H001047,"211 State Street, 2nd Floor Bridgeport, Connecticut 06604",41.176481,-73.189900,(866) 453-0028
+H001047,"888 Washington Boulevard, 10th Floor Stamford, Connecticut 06901",41.051090,-73.542287,(866) 453-0028
+H000627,"291 Wall Street Kingston, New York 12401",41.933417,-74.019606,(845) 331-4466
+H000627,"100 A Federal Building Binghamton, New York 13901",42.148230,-75.884789,(607) 773-2768
+H000627,"123 South Cayuga Street, Suite 201 Ithaca, New York 14850",42.439290,-76.498972,(607) 273-1388
+H000627,"18 Anawana Lake Road Monticello, New York 12701",41.667242,-74.676414,(845) 791-7116
+H000627,"16 James Street, 3rd Floor Middletown, New York 10940",41.445788,-74.421355,(845) 344-3211
+H000636,"2864 West Trenton Road Edinburg, Texas 78539",26.265838,-98.200949,(956) 682-5545
+H000636,"107 South Street Mary's Street Beeville, Texas 78102",28.401925,-97.748040,(361) 358-8400
+H001042,"300 Ala Moana Boulevard, Room 5-104 Honolulu, Hawaii 96850",21.304233,-157.862977,(808) 541-1986
+H001062,"325 Essjay Road, Suite 405 Williamsville, New York 14221",42.972431,-78.735830,(716) 634-2324
+H001062,"2300 West Ridge Road, Suite 400 Greece, New York 14626",43.208741,-77.688896,(585) 270-4828
+H001061,"220 East Rosser Avenue, 312 Federal Building Bismarck, North Dakota 58501",46.808605,-100.788692,(701) 250-4618
+H001061,"1802 32nd Avenue S, Suite B Fargo, North Dakota 58103",46.832547,-96.810693,(701) 239-5389
+H001061,"102 North Fourth Street, Room 108 Grand Forks, North Dakota 58203",47.925250,-97.032845,(701) 746-8972
+H000712,"1511 North Front Street, 1st Floor Harrisburg, Pennsylvania 17102",40.270208,-76.894333,(717) 234-5904
+H000712,"101 North Centre Street, #303 Pottsville, Pennsylvania 17901",40.685830,-76.195689,(570) 622-4212
+H000712,"4918 Kutztown Road Temple, Pennsylvania 19560-1554",40.409384,-75.920296,(610) 921-3502
+H000712,"758 Cumberland Street Lebanon, Pennsylvania 17042",40.339305,-76.423931,(717) 270-1395
+H001032,"50 Washington Road West Windsor, New Jersey 08550",40.320625,-74.624085,(609) 750-9365
+H001034,"1999 South Bascom Avenue, Suite 815 Campbell, California 95008",37.287278,-121.931787,(408) 558-8085
+H000874,"6500 Cherrywood Lane, #310 Greenbelt, Maryland 20770",39.010001,-76.897698,(301) 474-0119
+H000874,"401 Post Office Road, Suite 202 Waldorf, Maryland 20602",38.610557,-76.902923,(301) 843-1577
+H001057,"119 West Iron, Suite 603 Salina, Kansas 67401",38.840535,-97.609399,(785) 309-0572
+H001058,"210 North Mitchell Street Cadillac, Michigan 49601",44.251713,-85.400499,(231) 775-0050
+H001059,"1797 State Street, Suite A Geneva, Illinois 60134",41.895784,-88.329666,(630) 232-7104
+H001048,"1870 Cordell Court, Suite 206 El Cajon, California 92020",32.821774,-116.983439,(619) 448-5201
+H001060,"686 Berkmar Circle Charlottesville, Virginia 22901",38.084632,-78.478323,(434) 791-2596
+H001060,"308 Craghead Street, Suite 102-D Danville, Virginia 24541",36.587014,-79.389396,(434) 791-2596
+H001016,"10440 North Central Expressway, #1160 Dallas, Texas 75231",32.888738,-96.769338,(214) 361-3500
+H001016,"1919 Smith Street, #800 Houston, Texas 77002",29.752127,-95.373812,(713) 653-3456
+H001016,"3133 General Hudnell Drive, Suite 120 San",32.703212,-102.182119,(210) 340-2885
+H001016,"300 East 8th Street, 961 Federal Building Austin, Texas 78701",30.269235,-97.739605,(512) 916-5834
+H001016,"500 Chestnut Street, Room 1570 Abilene, Texas 79602",32.444247,-99.734151,(325) 676-2839
+H001016,"1906 G East Tyler Street Harlingen, Texas 78550",26.210725,-97.703151,(956) 425-2253
+I000024,"1924 South Utica Avenue, Suite 530 Tulsa, Oklahoma 74104",36.134587,-95.967235,(918) 748-5111
+I000024,"1900 NW Expressway, Suite 1210 Oklahoma City, Oklahoma 73118",35.522836,-97.546230,(405) 608-4381
+I000024,"215 East Choctaw, Suite 106 McAlester, Oklahoma 74501",34.931595,-95.767112,(918) 426-0933
+I000024,"302 North Independence, Suite 104 Enid, Oklahoma 73701",36.399136,-97.879927,(580) 234-5105
+I000025,"300 Ala Moana Boulevard, #7-212 Honolulu, Hawaii 96850",21.304233,-157.862977,(808) 541-2542
+I000025,"101 Aupuni Street, #205 Hilo, Hawaii 96720",19.718100,-155.077458,(808) 935-0844
+I000026,"18560 First Avenue NE, Suite E800 Shoreline, Washington 98155-2150",47.763838,-122.329618,(206) 361-0233
+I000026,"17791 Fjord Drive, NE, Door 112 Poulsbo, Washington 98370-8481",47.746168,-122.634919,(360) 598-2342
+I000055,"3625 Cumberland Boulevard, Suite 970 Atlanta, Georgia 30339",33.885990,-84.454271,(770) 661-0999
+I000057,"150 Motor Parkway, Suite 108 Hauppauge, New York 11788",40.806493,-73.258360,(631) 951-2210
+I000056,"1800 Thibodo Road, #310 Vista, California 92081",33.175102,-117.226802,(760) 599-5000
+J000283,"17926 South Halsted Homewood, Illinois 60430",41.564191,-87.636272,(708) 798-6000
+J000283,"7121 South Yates Boulevard Chicago, Illinois 60649",41.765542,-87.566491,(773) 734-9660
+J000032,"1919 Smith Street, #1180 Houston, Texas 77002",29.752127,-95.373812,(713) 655-0050
+J000032,"420 West 19th Street Houston, Texas 77008",29.802854,-95.404227,(713) 861-4070
+J000032,"6719 West Montgomery Road, #204 Houston, Texas 77091",29.857180,-95.420838,(713) 691-4882
+J000032,"4300 Lyons Avenue Houston, Texas 77020",29.776083,-95.327255,(713) 227-7740
+J000290,"3550 SW 5th Street Topeka, Kansas 66606",39.060408,-95.719792,(785) 234-5966
+J000290,"1001 North Broadway Street, Suite C Pittsburg, Kansas 66762",37.417154,-94.704857,(620) 231-5966
+J000291,"115 Railway Street, Suite C102 Scottsbluff, Nebraska 69361",41.858441,-103.660569,(308) 632-6032
+J000291,"4111 Fourth Avenue, Suite 26 Kearney, Nebraska 68845",40.715168,-99.086757,(308) 236-7602
+J000291,"287 Federal Building, 100 Centennial Mall North Lincoln, Nebraska 68508",40.815822,-96.706219,(402) 476-1400
+J000291,"9900 Nicholas Street, Suite 325 Omaha, Nebraska 68114",41.268968,-96.065878,(402) 758-8981
+J000292,"258 Front Street Marietta, Ohio 45750",39.413564,-81.455017,(740) 376-0868
+J000126,"3102 Maple Avenue, #600 Dallas, Texas 75201",32.798646,-96.808129,(214) 922-8885
+J000288,"5700 Hillandale Drive, Suite 110 Lithonia, Georgia 30058",33.703618,-84.156929,(770) 987-2291
+J000174,"2929 North Central Expressway, Suite 240 Richardson, Texas 75080",32.994282,-96.710136,(972) 470-0892
+J000285,"202 North Prospect Road, Suite 203 Bloomington, Illinois 61704",40.481799,-88.949874,(309) 663-7049
+J000293,"517 East Wisconsin Avenue Milwaukee, Wisconsin 53202",43.038816,-87.904951,(414) 276-7282
+J000293,"219 Washington Avenue Oshkosh, Wisconsin 54901",44.017695,-88.534871,(920) 230-7250
+J000177,"5015 South Bur Oak Place Sioux Falls, South Dakota 57108",43.499745,-96.762506,(605) 332-8896
+J000177,"320 South First Street, #103 Aberdeen, South Dakota 57401",45.461851,-98.489527,(605) 226-3440
+J000177,"405 East Omaha Street, Suite B Rapid City, South Dakota 57701",44.081422,-103.204796,(605) 341-3990
+J000255,"1105-C Corporate Drive Greenville, North Carolina 27858",35.580409,-77.356509,(252) 931-1003
+J000289,"24 West Third Street, Room 314 Mansfield, Ohio 44902",40.759864,-82.516561,(419) 522-5757
+J000289,"3121 West Elm Plaza Lima, Ohio 45805",40.736985,-84.161315,(419) 999-6455
+J000289,"100 East Main Cross, Suite 101 Findlay, Ohio 45840",41.039145,-83.650109,(419) 423-3210
+K000009,"One Maritime Plaza, 6th Floor Toledo, Ohio 43604",41.654434,-83.528031,(419) 259-7500
+K000375,"297 North Street, Suite 312 Hyannis, Massachusetts 02601",41.650578,-70.293406,(508) 771-0666
+K000375,"1250 Hancock Street, Suite 802-N Quincy, Massachusetts 02169",42.252281,-71.004147,(617) 770-3700
+K000376,"108 East Diamond Street, 1st Floor Butler, Pennsylvania 16001",40.858604,-79.894889,(724) 282-2557
+K000376,"208 East Bayfront Parkway, Suite 102 Erie, Pennsylvania 16507",42.136348,-80.084364,(814) 454-8190
+K000376,"182 Main Street Greenville, Pennsylvania 16125",41.405074,-80.389081,(724) 885-1113
+K000148,"One Bowdoin Square, 10th Floor Boston, Massachusetts 02114",42.361301,-71.062833,(617) 565-8519
+K000148,"1550 Main Street, Suite 340 Springfield, Massachusetts 01103-1427",42.103483,-72.592417,(413) 785-4610
+K000148,"222 Milliken Place, Suite 312 Fall River, Massachusetts 02721",41.700133,-71.159465,(508) 677-0522
+K000172,"432 North Saginaw, #410 Flint, Michigan 48502",43.019625,-83.693507,(810) 239-1437
+K000172,"515 North Washington Street, Suite 401 Saginaw, Michigan 48607",43.438131,-83.937322,(989) 755-8904
+K000172,"916 Washington Avenue, Suite 205 Bay City, Michigan 48708",43.599323,-83.887586,(989) 891-0990
+K000188,"205 5th Avenue South, Suite 400 LaCrosse, Wisconsin 54601",43.810883,-91.250141,(608) 782-2558
+K000188,"131 South Barstow Street, Suite 301 Eau Claire, Wisconsin 54701",44.812027,-91.500483,(715) 831-9214
+K000210,"1003 Park Boulevard Massapequa Park, New York 11762",40.678171,-73.456020,(516) 541-4225
+K000362,"40 Pearl Street Council Bluffs, Iowa 51503",41.260255,-95.850568,(712) 325-1404
+K000362,"208 West Taylor Street Creston, Iowa 50801",41.049172,-94.362889,(641) 782-2495
+K000362,"526 Nebraska Street Sioux City, Iowa 51101",42.495618,-96.403447,(712) 224-4692
+K000362,"306 North Grand Avenue Spencer, Iowa 51301",43.140520,-95.144600,(712) 580-7754
+K000362,"800 Oneida Street, Suite A Storm Lake, Iowa 50588",42.646812,-95.195417,(712) 732-4197
+K000220,"1 Diamond Causeway, Suite 7 Savannah, Georgia 31406",31.952996,-81.086835,(912) 352-0101
+K000220,"805 Gloucester Street, #304 Brunswick, Georgia 31520",31.149854,-81.492549,(912) 265-9010
+K000220,"PO Box 40 Baxley, Georgia 31515",31.737837,-82.312578,(912) 367-7403
+K000220,"401 North Patterson Street, Second Floor, Room 215 Valdosta, Georgia 31601",30.831890,-83.289209,(229) 247-9188
+K000378,"2701 Black Road, Suite 201 Joliet, Illinois 60435",41.536646,-88.148136,(815) 729-2308
+K000360,"230 South Dearborn, Suite 3900 Chicago, Illinois 60604",41.879079,-87.629330,(312) 886-3506
+K000360,"607 East Adams, Suite 1520 Springfield, Illinois 62701",39.800560,-89.647663,(217) 492-5089
+K000369,"325 McGill Avenue, Suite 500 Concord, North Carolina 28027",35.415943,-80.605117,(704) 786-1612
+K000369,"230 East Franklin Street Rockingham, North Carolina 28379",34.938306,-79.772620,(910) 997-2070
+K000369,"6257 Raeford Road, Suite 2 Fayetteville, North Carolina 28304",35.043846,-78.984436,(910) 920-2070
+K000363,"101 West Burnsville Parkway, Suite 201 Burnsville, Minnesota 55337",44.771896,-93.279138,(952) 808-1213
+K000367,"1200 Washington Avenue South, Suite 250 Minneapolis, Minnesota 55415",44.974858,-93.251610,(612) 727-5220
+K000367,"1134 7th Street, NW Rochester, Minnesota 55901",44.031506,-92.479647,(507) 288-5321
+K000367,"121 4th Street South Moorhead, Minnesota 56560",46.873538,-96.773898,(218) 287-2219
+K000367,"820 9th Street North, Olcott Plaza, Suite 105 Virginia, Minnesota 55792",47.532960,-92.539551,(218) 741-9690
+K000305,"310 West Wisconsin Avenue, Suite 950 Milwaukee, Wisconsin 53203",43.038808,-87.914817,(414) 297-4451
+K000305,"14 West Mifflin Street, Suite 207 Madison, Wisconsin 53703",43.075353,-89.385464,(608) 264-5338
+K000305,"402 Graham Avenue, Suite 206 Eau Claire, Wisconsin 54701",44.809721,-91.499401,(715) 832-8424
+K000305,"4321 West College Avenue, Suite 370 Appleton, Wisconsin 54914",44.261877,-88.470098,(920) 738-1640
+K000305,"205 5th Avenue South, Room 216 La Crosse, Wisconsin 54601",43.810883,-91.250141,(608) 796-0045
+K000336,"14400 Detroit Avenue Lakewood, Ohio 44107",41.485392,-81.794679,(216) 228-8850
+K000336,"Parmatown Mall, 7904 Day Drive Parma, Ohio 44129",41.395500,-81.735259,(440) 845-2707
+K000352,"2200 East Camelback, Suite 120 Phoenix, Arizona 85016-1891",33.509352,-112.034362,(602) 840-1891
+K000352,"6840 North Oracle Road, Suite 150 Tucson, Arizona 85704",32.331159,-110.976730,(520) 575-8633
+L000573,"1115 Albany Street Caldwell, Idaho 83605",43.665140,-116.682356,(208) 454-5518
+L000573,"1250 Ironood Drive, #243 Coeur d'Alene, Idaho 83814",47.697353,-116.804161,(208) 667-0127
+L000573,"310 Main Street Lewiston, Idaho 83501",46.421582,-117.029155,(208) 743-1388
+L000573,"33 East Broadway Avenue Meridian, Idaho 83642",43.610125,-116.392785,(208) 888-3188
+L000564,"1271 Kelly Johnson Boulevard, Suite 110 Colorado Springs, Colorado 80920",38.945382,-104.807230,(719) 520-0055
+L000564,"Buena Vista Office: 415 Main Street Buena Vista, Colorado 81211",38.846919,-106.141069,(719) 520-0055
+L000567,"425 North Avenue East Westfield, New Jersey 07090",40.651189,-74.340712,(908) 518-7733
+L000567,"23 Royal Road, Suite 101 Flemington, New Jersey 08822",40.510487,-74.843899,(908) 788-6900
+L000550,"707 Florida Street, #326 Baton Rouge, Louisiana 70801",30.449514,-91.183167,(225) 389-0395
+L000550,"500 Poydras Street, #1005 New Orleans, Louisiana 70130",29.948954,-90.068256,(504) 589-2427
+L000550,"300 Fannin Street, #2240 Shreveport, Louisiana 71101-3086",32.515833,-93.749520,(318) 676-3085
+L000550,"Hibernia Tower, One Lakeshore Drive, #1260 Lake Charles, Louisiana 70629",30.230100,-93.219069,(337) 436-6650
+L000574,"423 Lafayette Street, Suite 107 Houma, Louisiana 70360",29.595342,-90.724461,(985) 879-2300
+L000574,"301 East St. Peter Street, Suite 102 New Iberia, Louisiana 70560",30.003351,-91.817698,(337) 359-9080
+L000559,"300 Centerville Road, Suite 200 S Warwick, Rhode Island 02886",41.698591,-71.461686,(401) 732-9400
+L000575,"1015 North Broadway, Suite 310 Oklahoma City, Oklahoma 73102",35.477317,-97.514180,(405) 234-9900
+L000560,"2930 Wetmore Avenue, Suite 9F Everett, Washington 98201",47.978787,-122.207227,(425) 252-3188
+L000560,"119 North Commercial Street, Suite 1350 Bellingham, Washington 98225",48.752144,-122.478117,(360) 733-4500
+L000557,"221 Main Street, 2nd Floor Hartford, Connecticut 06106",41.758797,-72.675336,(860) 278-8888
+L000111,"1421 South Bell Avenue, Suite 108A Ames, Iowa 50010",42.010363,-93.575318,(515) 232-2885
+L000111,"1426 Central Avenue, Suite A Ft. Dodge, Iowa 50501",42.506154,-94.178900,(515) 573-2738
+L000111,"812 Highway 18 East, P.O. Box 532 Clear Lake, Iowa 50428",43.146580,-93.354699,(641) 357-5225
+L000553,"One Victoria Place, #320 Painesville, Ohio 44077",41.724870,-81.243218,(440) 352-3939
+L000553,"10075 Ravenna Road Twinsburg, Ohio 44087",41.318039,-81.448363,(330) 425-9291
+L000566,"11 East Main Street Norwalk, Ohio 44857",41.242573,-82.615130,(419) 668-0206
+L000566,"101 Clinton Street, Suite 1200 Defiance, Ohio 43512",41.288773,-84.361039,(419) 782-1996
+L000566,"1045 North Main Street, Suite 6 Bowling Green, Ohio 43402-1361",41.389116,-83.650555,(419) 354-8700
+L000123,"1 Gateway Center, 23rd Floor Newark, New Jersey 07102",40.735431,-74.164278,(973) 639-8700
+L000123,"One Port Center, 2 Riverside Drive, Suite 505 Camden, New Jersey 08101",39.945255,-75.119129,(856) 338-8922
+L000174,"199 Main Street, 4th Floor Burlington, Vermont 05401",44.475942,-73.211690,(802) 863-2525
+L000174,"P.O. Box 933, 87 State Street, Room 338 Montpelier, Vermont 05602",44.260300,-72.576264,(802) 229-0569
+L000551,"1301 Clay Street, Suite 1000N Oakland, California 94612",37.804594,-122.274044,(510) 763-0370
+L000577,"Salt Lake City Office: 125 South State, Suite 4225 Salt Lake City, Utah 84138",40.756830,-111.888229,(801) 524-5933
+L000577,"324 25th Street, Suite 1410 Ogden, Utah 84401",41.220698,-111.972624,(801) 625-5676
+L000577,"196 East Tabernacle, Suite 21 St. George, Utah 84770",37.108156,-113.579284,(435) 628-5514
+L000263,"27085 Gratiot Avenue Roseville, Michigan 48066",42.495484,-82.938009,(586) 498-7122
+L000261,"477 Michigan Avenue, Suite 1860 Detroit, Michigan 48226",42.331666,-83.053824,(313) 226-6020
+L000261,"515 North Washington Street, Suite 402 Saginaw, Michigan 48607",43.438131,-83.937322,(989) 754-2494
+L000261,"124 West Allegan, Suite 1810 Lansing, Michigan 48933",42.732591,-84.552743,(517) 377-1508
+L000261,"110 Michigan Street, NW, Room 720 Grand Rapids, Michigan 49503",42.970410,-85.670481,(616) 456-2531
+L000261,"30500 Van Dyke Avenue, #206 Warren, Michigan 48093",42.517775,-83.028771,(586) 573-9145
+L000261,"524 Ludington Street, Suite LL-103 Escanaba, Michigan 49829",45.745728,-87.054091,(906) 789-0052
+L000261,"107 Cass Street, Suite E Traverse City, Michigan 49684-2602",44.763896,-85.621062,(231) 947-9569
+L000274,"1150 Brookside Avenue, Suite J-5 Redlands, California 92373",34.049026,-117.197241,(909) 862-6030
+L000287,"100 Peachtree Street, NW, Suite 1920 Atlanta, Georgia 30303",33.756349,-84.388441,(404) 659-0116
+L000304,"1 Constitution Plaza, 7th Floor Hartford, Connecticut 06103",41.765683,-72.669524,(860) 549-8463
+L000563,"6245 South Archer Avenue Chicago, Illinois 60638",41.793585,-87.776237,(312) 886-0481
+L000563,"26 South LaGrange Road, Suite 204 LaGrange, Illinois 60525",41.814595,-87.869622,(708) 352-0524
+L000563,"5309 West 95th Street Oak Lawn, Illinois 60453",41.719865,-87.753443,(708) 424-0853
+L000554,"5914 Main Street Mays Landing, New Jersey 08330",39.451800,-74.726520,(609) 625-5008
+L000565,"125 South Dubuque Street Iowa City, Iowa 52240",41.659769,-91.533098,(319) 351-0789
+L000565,"150 1st Avenue, NE, Suite 375 Cedar Rapids, Iowa 52401",41.978428,-91.669278,(319) 364-2288
+L000397,"635 North 1st Street, Suite B San Jose, California 95112",37.347478,-121.899086,(408) 271-8700
+L000576,"3232 East Ridgeview Street Springfield, Missouri 65804",37.159351,-93.229871,(417) 889-1800
+L000576,"2727 East 32nd Street, Suite 2 Joplin, Missouri 64804",37.054848,-94.482387,(417) 781-1041
+L000480,"222 Mamaroneck Avenue, #310 White Plains, New York 10605",41.027186,-73.764361,(914) 428-1707
+L000491,"2222 West 12th Street Stillwater, Oklahoma 74074",36.108591,-97.086096,(405) 624-6407
+L000491,"10952 Northwest Expressway, Suite B Yukon, Oklahoma 73099",35.594147,-97.721232,(405) 373-1958
+L000491,"2728 Williams Avenue, Suite F Woodward, Oklahoma 73801",36.418502,-99.386033,(580) 256-5752
+L000569,"3809 South Providence Road, Suite A Columbia, Missouri 65203",38.909029,-92.335434,(573) 443-1041
+L000569,"201 North 3rd Street, Suite 120 Hannibal, Missouri 63401",39.710095,-91.357505,(573) 231-1012
+L000569,"516 Jefferson Street Washington, Missouri 63090",38.556328,-91.013221,(636) 239-2276
+L000504,"1180 Market Tower, 10 West Market Street Indianapolis, Indiana 46204",39.781278,-86.137557,(317) 226-5555
+L000504,"6384 A West Jefferson Boulevard Ft. Wayne, Indiana 46804",41.056877,-85.223325,(260) 422-1505
+L000504,"175 West Lincolnway, Suite G1 Valparaiso, Indiana 46383",41.467734,-87.063138,(219) 548-8035
+L000504,"101 NW Martin Luther King, Jr. Boulevard, Room 122 Evansville, Indiana 47708",37.974160,-87.568576,(812) 465-6313
+L000570,"811 St. Michaels Drive, Suite 104 Santa Fe, New Mexico 87505",35.659535,-105.962184,(505) 984-8950
+L000570,"3200 Civic Center NE, Suite 330 Rio Rancho, New Mexico 87144",35.311366,-106.685311,(505) 994-0499
+L000570,"800 Municipal Drive Farmington, New Mexico 87401",36.737013,-108.218636,(505) 324-1005
+L000570,"110 West Aztec Avenue Gallup, New Mexico 87301",35.526617,-108.741020,(505) 863-0582
+L000570,"903 University Avenue Las Vegas, New Mexico 87701",35.594396,-105.219193,(505) 454-3038
+L000570,"404 West Route 66 Boulevard Tucumcari, New Mexico 88401",35.171810,-103.726435,(575) 461-3029
+L000571,"2120 Capitol Avenue, Suite 2015 Cheyenne, Wyoming 82001",41.137379,-104.818382,(307) 772-2595
+L000571,"100 East B Street, Suite 4003 Casper, Wyoming 82602",42.851996,-106.325099,(307) 261-6595
+L000571,"404 ""N"" Street, Suite 204 Rock Springs, Wyoming 82901",41.592421,-109.217844,(307) 362-4095
+L000571,"45 East Loucks, Suite 300F Sheridan, Wyoming 82801",44.797243,-106.955280,(307) 673-4608
+L000517,"2339 Gold Meadow Way, Suite 220 Gold River, California 95670",38.623410,-121.262967,(916) 859-9906
+L000562,"88 Black Falcon Avenue, Suite 340 Boston, Massachusetts 02210",42.343979,-71.028518,(617) 428-2000
+L000562,"155 West Elm Street, Suite 200 Brockton, Massachusetts 02301",42.081931,-71.025293,(508) 586-5555
+M001155,"804 Nicholas Parkway East, Suite 1 Cape Coral, Florida 33990",26.629690,-81.958508,(239) 573-5837
+M001155,"3299 East Tamiami Trail, Suite 105 Naples, Florida 34112",26.127185,-81.766589,(239) 252-6225
+M000087,"1651 Third Avenue, #311 New York, New York 10128",40.782881,-73.951002,(212) 860-0606
+M000087,"21-77 31 Street Astoria, New York 11105",40.776642,-73.910055,(718) 932-1804
+M001183,"300 Virginia Street East, Unit 2630 Charleston, West Virginia 25301",38.352461,-81.639762,(304) 342-5855
+M001183,"217 West King Street, Room 238 Martinsburg, West Virginia 25401",39.456536,-77.965479,(304) 264-4626
+M001138,"415 South Mulford Road Rockford, Illinois 61108",42.264374,-88.999667,(815) 394-1231
+M001138,"101 North Virginia Street, Suite 170 Crystal Lake, Illinois 60014",42.243811,-88.342141,(815) 356-9800
+M001158,"9901 East Valley Ranch Parkway, Suite 3035 Irving, Texas 75063",32.940273,-96.950212,(972) 556-0162
+M001179,"181 West Tioga Street, Suite 2 Tunkhannock, Pennsylvania 18657",41.543584,-75.961921,(570) 836-8020
+M000133,"5 High Street, #101 Medford, Massachusetts 02155",42.418389,-71.110205,(781) 396-2900
+M000133,"188 Concord Street, Suite 102 Framingham, Massachusetts 01702",42.279929,-71.416275,(508) 875-2900
+M001142,"240 East Morris Avenue, #235 South Salt Lake, Utah 84115",40.717842,-111.884246,(801) 486-1236
+M001142,"321 North Mall Drive, #E 101B St. George, Utah 84790",37.073245,-113.562165,(435) 627-0880
+M001142,"120 East Main Street Price, Utah 84501",39.599542,-110.808655,(435) 636-3722
+M001163,"501 I Street, Suite 12-600 Sacramento, California 95814-7305",38.582950,-121.498791,(916) 498-5600
+M000303,"5353 North 16th Street, Suite 105 Phoenix, Arizona 85016",33.515574,-112.047521,(602) 952-2410
+M000303,"122 North Cortez Street, Suite 108 Prescott, Arizona 86301",34.542441,-112.468688,(928) 445-0833
+M000303,"4703 South Lakeshore Drive, Suite 1 Tempe, Arizona 85282",33.380374,-111.921262,(480) 897-6289
+M000303,"407 West Congress Street, Suite 103 Tucson, Arizona 85701",32.221225,-110.977133,(520) 670-6334
+M000309,"300 Garden City Plaza, Suite 200 Garden City, New York 11530",40.737057,-73.615602,(516) 739-3008
+M001165,"4100 Empire Drive, Suite 150 Bakersfield, California 93309",35.374544,-119.046720,(661) 327-3611
+M001165,"5805 Capistrano Avenue, Suite C Atascadero, California 93422-7218",35.490391,-120.663977,(805) 461-1034
+M001170,"4141 Pennsylvania, Suite 101 Kansas City, Missouri 64111",39.051824,-94.590631,(816) 421-1639
+M001170,"555 Independence, Room 1600 Cape Girardeau, Missouri 63703",37.303993,-89.524815,(573) 651-0964
+M001170,"5850 A Delmar Boulevard St. Louis, Missouri 63112",38.654333,-90.288952,(314) 367-1364
+M001170,"915 East Ash Street Columbia, Missouri 65201",38.953588,-92.327249,(573) 442-7130
+M001170,"324 Park Central West, Suite 101 Springfield, Missouri 65806",37.208986,-93.293537,(417) 868-8745
+M001157,"1550 Foxlake, Suite 120 Houston, Texas 77084",29.789459,-95.714844,(281) 398-1247
+M001157,"5929 Balcones Drive, Suite 305 Austin, Texas 78731",30.342263,-97.753948,(512) 473-2357
+M001157,"990 Village Square, Suite B Tomball, Texas 77375",30.095236,-95.626043,(281) 255-8372
+M001157,"2000 South Market Street, Suite 303 Brenham, Texas 77833",30.151536,-96.391191,(979) 830-8497
+M001177,"700 Auburn-Folsom Road, Suite 100 Granite Bay, California 95746",38.794460,-121.136329,(916) 786-5560
+M001143,"165 Western Avenue North, Suite 17 St. Paul, Minnesota 55102",44.946326,-93.116091,(651) 224-9191
+M000355,"601 West Broadway, #630 Louisville, Kentucky 40202",38.246341,-85.761891,(502) 582-6304
+M000355,"771 Corporate Drive, Suite 108 Lexington, Kentucky 40503",38.014026,-84.552214,(859) 224-8286
+M000355,"300 South Main Street, Suite 310 London, Kentucky 40741",37.126786,-84.081771,(606) 864-2026
+M000355,"2320 Broadway, Suite 100 Paducah, Kentucky 42001",37.076147,-88.624172,(270) 442-4554
+M000355,"1885 Dixie Highway, Suite 345 Ft. Wright, Kentucky 41011",39.057836,-84.543183,(859) 578-0188
+M000355,"241 East Main Street, #102 Bowling Green, Kentucky 42101",36.995470,-86.443199,(270) 781-1673
+M001147,"17197 North Laurel Park Drive, Suite 216 Livonia, Michigan 48152",42.413858,-83.419469,(734) 632-0314
+M001147,"213 West Huron Street Milford, Michigan 48381",42.585333,-83.601962,(248) 685-9495
+M000404,"1809 7th Avenue, #1212 Seattle, Washington 98101",47.613700,-122.335342,(206) 553-7170
+M000312,"34 Mechanic Street, 1st Floor Worcester, Massachusetts 01608",42.263794,-71.800758,(508) 831-7356
+M000312,"371 South Main Street, Suite 102 Fall River, Massachusetts 02721",41.697911,-71.159279,(508) 677-0140
+M000312,"8 North Main Street, Suite 200 Attleboro, Massachusetts 02703",41.945019,-71.284782,(508) 431-8025
+M000312,"255 Main Street, Room 104 Marlborough, Massachusetts 01752",42.346588,-71.551784,(508) 460-9292
+M001156,"87 4th Street NW, Suite A Hickory, North Carolina 28603",35.732986,-81.344580,(828) 327-6100
+M001156,"311 East Marion Street, Suite 119 Shelby, North Carolina 28150",35.291764,-81.536086,(704) 481-0578
+M001156,"Spruce Pine Town Hall, PO Box 715 Spruce Pine, North Carolina 28777",35.906917,-82.066727,(828) 765-2729
+M000485,"301 Green Street, Room 218 Fayetteville, North Carolina 28301",35.055504,-78.877230,(910) 323-0260
+M000485,"201 North Front Street, Suite 410 Wilmington, North Carolina 28401",34.237670,-77.948998,(910) 815-4959
+M000485,"500 North Cedar Street Lumberton, North Carolina 28358",34.620091,-79.003549,(910) 735-0610
+M000485,"310 Government Center Dr., NE Building S, Unit 1 Bolivia, North Carolina 28422",33.997892,-78.201816,(910) 253-0158
+M000508,"26650 The Old Road, Suite 203 Santa Clarita, California 91381",34.405156,-118.578305,(661) 254-2111
+M000508,"1008 West Avenue M-14, Suite E-1 Palmdale, California 93551",34.633020,-118.147948,(661) 274-9688
+M001180,"Federal Building, 1125 Chapline Street Wheeling, West Virginia 26003",40.070313,-80.687931,(304) 232-3801
+M001159,"10 North Post, Suite 625 Spokane, Washington 99201",47.657345,-117.423503,(509) 353-2374
+M001159,"555 South Main Street Colville, Washington 99114",48.539638,-117.905747,(509) 684-3481
+M001159,"29 South Palouse Street Walla Walla, Washington 99362",46.068967,-118.334718,(509) 529-9358
+M001166,"5776 Stoneridge Mall Road, Suite 175 Pleasanton, California 94588",37.693037,-121.930832,(925) 737-0727
+M001166,"2222 Grand Canal Boulevard, Suite 7 Stockton, California 95207",37.984492,-121.333533,(209) 476-8552
+M000627,"940 Sproul Road Springfield, Pennsylvania 19064",39.939588,-75.349961,(610) 690-7323
+M001137,"153-01 Jamaica Avenue Jamaica, New York 11432-3870",40.702768,-73.802279,(718) 725-6000
+M001137,"1931 Mott Avenue, Room 305 Far Rockaway, New York 11691",40.603914,-73.752329,(718) 327-9791
+M000639,"One Gateway Center, Suite 1100 Newark, New Jersey 07102",40.735431,-74.164278,(973) 645-3030
+M000639,"208 White Horse Pike, Suite 18 Barrington, New Jersey 08007",39.873377,-75.046642,(856) 757-5353
+M001176,"121 SW Salmon Street, #1400 Portland, Oregon 97204",45.515822,-122.674946,(503) 326-3386
+M001176,"405 East 8th Avenue, Suite 2010 Eugene, Oregon 97401",44.051038,-123.086434,(541) 465-6750
+M001176,"10 South Bartlett Street, Suite 201 Medford, Oregon 97501",42.326872,-122.871305,(541) 608-9102
+M001176,"495 State Street, Suite 330 Salem, Oregon 97301",44.939644,-123.037454,(503) 362-8102
+M001176,"131 NW Hawthorne Avenue, Suite 208 Bend, Oregon 97701",44.057902,-121.309328,(541) 318-1298
+M001176,"310 SE Second Street, Suite 105 Pendleton, Oregon 97801",45.672044,-118.784833,(541) 278-1129
+M000689,"100 East Sybelia Avenue, #340 Maitland, Florida 32751-4495",28.631237,-81.365417,(407) 657-8080
+M000689,"840 Deltona Boulevard, Suite G Deltona, Florida 32725",28.885509,-81.276908,(386) 860-1499
+M000689,"770 West Granada Boulevard, Suite 315 Ormond Beach, Florida 32174-5180",29.278809,-81.080809,(386) 676-7750
+M000689,"3000 North Ponce de Leon Boulevard, Suite 1 St. Augustine, Florida 32084-8600",29.918852,-81.324766,(904) 810-5048
+M000689,"613 St. Johns Avenue, Room 107 Palatka, Florida 32177-4643",29.647190,-81.634683,(386) 328-1622
+M000689,"1 Florida Park Drive, Suite 100 Palm Coast, Florida 32137",29.558113,-81.207396,(386) 246-6042
+M001149,"6 State Street, Suite 101 Bangor, Maine 04401",44.802006,-68.770057,(207) 942-6935
+M001149,"179 Lisbon Street, Ground Floor Lewiston, Maine 04240",44.095720,-70.216749,(207) 782-3704
+M001149,"445 Main Street Presque Isle, Maine 04769",46.680924,-68.015496,(207) 764-1036
+M001149,"16 Common Street Waterville, Maine 04901",44.549401,-69.628925,(207) 873-5713
+M000702,"1629 Thames Street, Suite 400 Baltimore, Maryland 21231",39.281459,-76.593968,(410) 962-4510
+M000702,"60 West Street, Suite 202 Annapolis, Maryland 21401",38.978342,-76.495034,(410) 263-1805
+M000702,"6404 Ivy Lane, Suite 406 Greenbelt, Maryland 20770-1407",39.008099,-76.896200,(301) 345-5517
+M000702,"212 West Main Street, Suite 200 Salisbury, Maryland 21801",38.365343,-75.602111,(410) 546-7711
+M000702,"32 West Washington Street, Room 203 Hagerstown, Maryland 21740",39.642550,-77.721384,(301) 797-2826
+M001154,"1300 St. Mary's Street, Suite 504 Raleigh, North Carolina 27605",35.796077,-78.652838,(919) 836-1313
+M001154,"125 South Elm Street, Suite 504 Greensboro, North Carolina 27401",36.072173,-79.790229,(336) 574-2909
+M001150,"48701 Van Dyke Avenue Shelby Township, Michigan 48317",42.653010,-83.033352,(586) 997-5010
+M001139,"1800 East Lambert Road, Suite 150 Brea, California 92821",33.925253,-117.877341,(714) 257-1142
+M001139,"200 Civic Center Drive Mission Viejo, California 92691",33.609806,-117.666183,(949) 470-8484
+M000725,"1333 Willow Pass Road, Suite 203 Concord, California 94520",37.968895,-122.051897,(925) 602-1880
+M000725,"3220 Blume Drive, Suite 160 Richmond, California 94806",37.983138,-122.322192,(510) 262-6500
+M000725,"375 G Street, Suite 1 Vallejo, California 94592",38.109350,-122.278385,(707) 645-1888
+M001144,"4300 Bayou Boulevard, Suite 13 Pensacola, Florida 32503",30.466131,-87.204431,(850) 479-1183
+M001144,"348 SW Miracle Strip Parkway, Suite 24 Ft. Walton Beach, Florida 32548",30.407339,-86.638492,(850) 664-1266
+M001160,"219 North Milwaukee Street, Suite 3A Milwaukee, Wisconsin 53202-5818",43.033019,-87.905870,(414) 297-1140
+M000933,"333 North Fairfax Street, Suite 201 Alexandria, Virginia 22314",38.807187,-77.041950,(703) 971-4700
+M000934,"1200 Main Street, Suite 402 Hays, Kansas 67601",38.872812,-99.329919,(785) 628-6401
+M000934,"23600 College Boulevard, Suite 201 Olathe, Kansas 66061",38.927373,-94.859285,(913) 393-0711
+M000934,"800 SW Jackson, Suite 1108 Topeka, Kansas 66612",39.049048,-95.676068,(785) 232-2605
+M000934,"3450 North Rock Road, Bldg. 200, Ste. 209 Wichita, Kansas 67226",37.749094,-97.240549,(316) 631-1410
+M001182,"1456 Ebenezer Road Rock Hill, South Carolina 29732",34.950891,-81.042269,(803) 327-1114
+M001153,"101 12th Avenue, Suite 329 Fairbanks, Alaska 99701",64.838351,-147.706741,(907) 456-0233
+M001153,"Peterson Tower, 510 L Street, Suite 750 Anchorage, Alaska 99501",61.216080,-149.875879,(907) 271-3735
+M001153,"851 East Westpoint Drive, Suite 307 Wasilla, Alaska 99654",61.582249,-149.428922,(907) 376-7665
+M001153,"4079 Tongass Avenue, Suite 204 Ketchikan, Alaska 99901",55.358426,-131.698018,(907) 225-6880
+M001153,"805 Frontage Road, Suite 105 Kenai, Alaska 99611",60.554297,-151.257361,(907) 283-5808
+M001169,"114 West Main Street, Suite 206 New Britain, Connecticut 06051",41.667308,-72.784474,(860) 223-8412
+M001169,"22-26 West Main Street Meriden, Connecticut 06450",41.538238,-72.803351,(203) 630-0815
+M001169,"49 Leavenworth Street Waterbury, Connecticut 06702",41.554860,-73.042638,(203) 759-7541
+M001169,"198 Main Street Danbury, Connecticut 06810",41.394037,-73.451775,(203) 798-2072
+M001151,"504 Washington Road Pittsburgh, Pennsylvania 15228",40.384290,-80.043800,(412) 344-5583
+M001151,"2040 Frederickson Place Greensburg, Pennsylvania 15601",40.290970,-79.574974,(724) 850-7312
+M001111,"915 2nd Avenue, 2988 Jackson Federal Building Seattle, Washington 98174",47.602150,-122.328686,(206) 553-5545
+M001111,"1323 Officer's Row Vancouver, Washington 98661",45.627896,-122.657207,(360) 696-7797
+M001111,"10 North Post Street, Suite 600 Spokane, Washington 99201",47.657345,-117.423503,(509) 624-9515
+M001111,"402 East Yakima Avenue, Suite 390 Yakima, Washington 98901",46.603293,-120.501390,509) 453-7462
+M001111,"2930 Wetmore Avenue, Suite 903 Everett, Washington 98201",47.978787,-122.207227,(425) 259-6515
+M001111,"950 Pacific Avenue, Suite 650 Tacoma, Washington 98402",47.254170,-122.438763,(253) 572-3636
+M001111,"1611 116th Avenue NE, Suite 214 Bellevue, Washington 98004",47.624609,-122.185697,(866) 481 9186
+M001134,"6525 Morrison Boulevard, Suite 100 Charlotte, North Carolina 28211",35.154472,-80.830139,(704) 362-1060
+M001134,"197 West Main Avenue Gastonia, North Carolina 28052",35.263764,-81.183612,(704) 861-1976
+N000002,"201 Varick Street, Suite 669 New York, New York 10014",40.728495,-74.005344,(212) 367-7350
+N000002,"445 Neptune Avenue Brooklyn, New York 11224",40.580002,-73.969835,(718) 373-3198
+N000179,"11627 East Telegraph Road, Suite 100 Santa Fe Springs, California 90670",33.947003,-118.084980,(562) 801-2134
+N000015,"300 State Street, Suite 200 Springfield, Massachusetts 01105",42.105232,-72.581762,(413) 785-0325
+N000015,"2 Congress Street Milford, Massachusetts 01757",42.138753,-71.521788,(508) 634-8198
+N000180,"440 North 8th Street, Suite 120 Lincoln, Nebraska 68508",40.817409,-96.709915,(402) 441-4600
+N000180,"11819 Miracle Hills Drive, Suite 205 Omaha, Nebraska 68154",41.268003,-96.098000,(402) 391-3411
+N000180,"PO Box 1472 Scottsbluff, Nebraska 69363",41.861775,-103.662759,(308) 631-7614
+N000180,"PO Box 2105 Kearney, Nebraska 68848",40.700470,-99.083689,(308) 293-5818
+N000180,"PO Box 791 South Sioux City, Nebraska 68776",42.470310,-96.413949,(402) 209-3595
+N000032,"225 East Robinson Street, Suite 410 Orlando, Florida 32801",28.545699,-81.374981,(407) 872-7161
+N000032,"111 North Adams Street Tallahassee, Florida 32301",30.442514,-84.281983,(850) 942-8415
+N000032,"801 North Florida Avenue, 4th Floor Tampa, Florida 33602",27.951084,-82.458463,(813) 225-7040
+N000032,"2925 Salzedo Street Coral Gables, Florida 33134",25.745206,-80.260492,(305) 536-5999
+N000032,"413 West Clematis Street, Suite 210 West Palm Beach, Florida 33401",26.713381,-80.054176,(561) 514-0189
+N000032,"1301 Riverplace Boulevard, Suite 2010 Jacksonville, Florida 32207",30.318528,-81.657388,(904) 346-4500
+N000032,"3416 South University Drive Ft. Lauderdale, Florida 33328",26.078112,-80.251561,(954) 693-4851
+N000182,"611 University Avenue, #220 Lubbock, Texas 79401",33.589891,-101.870569,(806) 763-1611
+N000182,"500 Chestnut Street, Room 819 Abilene, Texas 79602",32.444247,-99.734151,(325) 675-9779
+N000182,"1510 Scurry Street, Suite B Big Spring, Texas 79720",32.240189,-101.472375,(432) 264-0722
+N000184,"343 Quincy Street Rapid City, South Dakota 57701",44.077105,-103.223256,(605) 791-4673
+N000184,"2310 West 41st Street, Suite 101 Sioux Falls, South Dakota 57105",43.514866,-96.753824,(605) 275-2868
+N000147,"529 14th Street, NW, Suite 900 Washington, District of Columbia 20045",38.896530,-77.031942,(202) 783-5065
+N000147,"2041 Martin Luther King, Jr. Avenue, SE, Suite 238 Washington, District of Columbia 20020",38.865675,-76.989396,(202) 678-8900
+N000185,"16224 Spring Hill Drive Brooksville, Florida 34604",28.480946,-82.457010,(352) 799-8354
+N000181,"113 North Church Street, Suite 208 Visalia, California 93291",36.330346,-119.291211,(559) 733-3861
+N000181,"264 Clovis Avenue, Suite 206 Clovis, California 93612",36.827070,-119.700679,(559) 323-5235
+N000186,"337 East Main Streeet Tupelo, Mississippi 38804",34.257575,-88.699944,(662) 841-8808
+O000168,"1650 Highway 6, Suite 150 Sugar Land, Texas 77478",29.600431,-95.628441,(281) 494-2690
+O000168,"17225 El Camino Real, Suite 447 Houston, Texas 77058",29.551808,-95.115055,(281) 486-1095
+O000085,"78 Center Street Pittsfield, Massachusetts 01201",42.446421,-73.257841,(413) 442-0946
+O000085,"57 Suffolk Street, #310 Holyoke, Massachusetts 01040",42.206242,-72.609211,(413) 532-7010
+O000085,"463 Main Street Fitchburg, Massachusetts 01420",42.583026,-71.799150,(978) 342-8722
+O000169,"120 Washington Street, Suite 200 Watertown, New York 13601-3370",43.974013,-75.910907,(315) 782-3150
+O000169,"14 Durkee Street, Suite 320 Plattsburgh, New York 12901",44.695729,-73.452263,(518) 563-1406
+O000169,"131 Main Street, Suite 106 Oneida, New York 13421",43.094957,-75.651838,(315) 367-0041
+P000601,"701 Main Street, Suite 215 Hattiesburg, Mississippi 39401",31.327945,-89.291847,(228) 864-7670
+P000034,"504 Broadway Long Branch, New Jersey 07740",40.300276,-73.998712,(732) 571-1140
+P000034,"67/69 Church Street New Brunswick, New Jersey 08901",40.494770,-74.443809,(732) 249-8892
+P000096,"200 Federal Plaza, #500 Paterson, New Jersey 07505",40.914782,-74.166774,(973) 523-5152
+P000099,"411 North Central Avenue, #150 Phoenix, Arizona 85004",33.452515,-112.073808,(602) 256-0551
+P000583,"1100 South Main Street, Suite 12 Hopkinsville, Kentucky 42240",36.864490,-87.489588,(270) 885-1212
+P000583,"771 Corporate Drive, Suite 15 Lexington, Kentucky 40503",38.014026,-84.552214,(859) 219-2239
+P000583,"600 Dr. Martin Luther King Jr. Place, Room 1072B Louisville, Kentucky 40202",38.248851,-85.761455,(502) 582-5341
+P000583,"423 Frederica Street, Suite 305 Owensboro, Kentucky 42301",37.772290,-87.113334,(270) 689-9085
+P000603,"1501 Mockingbird Lane, Suite 229 Victoria, Texas 77904",28.836044,-96.991493,(361) 576-1231
+P000603,"122 West Way, Suite 301 Lake Jackson, Texas 77566",29.043885,-95.452829,(979) 285-0231
+P000603,"601 25th Street, Suite 216 Galveston, Texas 77550",29.302918,-94.795586,(409) 766-7013
+P000594,"250 Prairie Center Drive, Suite 230 Eden Prairie, Minnesota 55344",44.857951,-93.420441,(952) 405-8510
+P000149,"50 Walnut Street, #1016 Newark, New Jersey 07102",40.729922,-74.172611,(973) 645-3213
+P000149,"333 North Broad Street Elizabeth, New Jersey 07208",40.670090,-74.215722,(908) 629-0222
+P000149,"253 Dr. Martin L. King Boulevard Jersey City, New Jersey 07305",40.707827,-74.082543,(201) 369-0392
+P000588,"1101 New York Avenue, Room 115 Alamogordo, New Mexico 88310",32.900782,-105.959038,(855) 473-2723
+P000588,"570 North Telshor Boulevard Las Cruces, New Mexico 88011",32.325802,-106.753539,(855) 473-2723
+P000588,"3445 Lambros Loop NE Los Lunas, New Mexico 87031",34.805931,-106.701445,(855) 473-2723
+P000588,"1717 West 2nd Street, Suite 100 Roswell, New Mexico 88201",33.394208,-104.548094,(855) 473-2723
+P000588,"200 East Broadway, Suite 200 Hobbs, New Mexico 88240",32.700809,-103.134826,(855) 473-2723
+P000197,"90 7th Street, Suite 2-800 San Francisco, California 94103",37.779313,-122.411047,(415) 556-4862
+P000587,"1134 Meridian Plaza Anderson, Indiana 46016",40.104731,-85.679203,(765) 640-2919
+P000587,"107 West Charles Street Muncie, Indiana 47305",40.191072,-85.386696,(765) 747-5566
+P000587,"50 North 5th Street Richmond, Indiana 47374",39.829456,-84.895191,(765) 962-2883
+P000593,"12600 West Colfax Avenue, Suite B400 Lakewood, Colorado 80215",39.739939,-105.139483,(303) 274-7944
+P000595,"560 Kirts Boulevard, Suite 105 Troy, Michigan 48084",42.556680,-83.156239,(248) 273-4227
+P000258,"714 Lake Avenue, #107 Detroit Lakes, Minnesota 56501",46.819241,-95.846707,(218) 847-5056
+P000258,"2603 Wheat Drive Red Lake Falls, Minnesota 56750",47.882862,-96.265243,(218) 253-4356
+P000258,"320 4th Street SW Willmar, Minnesota 56201",45.121144,-95.048024,(320) 235-1061
+P000258,"1420 East College Drive, SW/WC Marshall, Minnesota 56258",44.447720,-95.780432,(507) 537-2299
+P000265,"490 West Rolling Meadows Drive, Suite B Fond du Lac, Wisconsin 54937",43.752557,-88.473053,(920) 922-1180
+P000265,"2390 State Road 44, Suite B Oshkosh, Wisconsin 54904",43.985332,-88.591988,(920) 231-6333
+P000596,"157 Ave. de la Constitucion San Juan, Puerto Rico 00901",18.465640,-66.117189,(787) 723-6333
+P000597,"2 Portland Fish Pier, Suite 304 Portland, Maine 04101",43.653503,-70.255517,(207) 774-5019
+P000373,"150 North Queen Street, Suite 716 Lancaster, Pennsylvania 17603",40.040319,-76.306079,(717) 393-0667
+P000373,"PO Box 837 Unionville, Pennsylvania 19375",39.895260,-75.733914,(610) 444-4581
+P000585,"2209 East Market Street York, Pennsylvania 17402",39.973768,-76.684149,(717) 600-1919
+P000585,"59 West Louther Street Carlisle, Pennsylvania 17013",40.203151,-77.190244,(717) 249-0190
+P000585,"22 Chambersburg Street Gettysburg, Pennsylvania 17325",39.830906,-77.231848,(717) 338-1919
+P000592,"1801 Kingwood Drive, Suite 240 Kingwood, Texas 77339",30.051067,-95.229316,(281) 446-0242
+P000592,"505 Orleans Street, Suite. 100 Beaumont, Texas 77701",30.082523,-94.099056,(409) 212-1997
+P000598,"4770 Baseline Road, Suite 220 Boulder, Colorado 80303",40.000016,-105.234675,(303) 484-9596
+P000598,"101 West Main Street, Suite #101D Frisco, Colorado 80443",39.575245,-106.106298,(970) 668-3240
+P000598,"1200 East 78th Avenue, Suite 105 Thornton, Colorado 80229",39.838128,-104.970862,(303) 287-4159
+P000602,"155 North Market, Suite 400 Wichita, Kansas 67202",37.687057,-97.336795,(316) 262-8992
+P000449,"37 West Broad Street, Room 300 Columbus, Ohio 43215",39.962083,-83.001789,(614) 469-6774
+P000449,"36 East 7th Street, Room 2615 Cincinnati, Ohio 45202",39.103855,-84.512598,(513) 684-3265
+P000449,"1240 East 9th Street, Room 3061 Cleveland, Ohio 44199",41.505198,-81.691218,(216) 522-7095
+P000449,"420 Madison Avenue, Room 1210 Toledo, Ohio 43604",41.651506,-83.535070,(419) 259-3895
+P000599,"2725 Judge Fran Jamieson Way, Building C Melbourne, Florida 32940",28.247631,-80.736274,(321) 632-1776
+P000523,"5400 Trinity Road, Suite 205 Raleigh, North Carolina 27607",35.801454,-78.731494,(919) 859-5999
+P000523,"88 Vilcom Center, Suite 140 Chapel Hill, North Carolina 27514",35.964834,-79.051326,(919) 967-7924
+P000523,"411 West Chapel Hill Street, 9th Floor Durham, North Carolina 27701",35.997002,-78.907692,(919) 688-3004
+P000591,"3730 Roswell Road, Suite 50 Marietta, Georgia 30062",33.978790,-84.443656,(770) 565-4990
+P000591,"100 North Street, Suite 150 Canton, Georgia 30114",34.237334,-84.490534,(678) 493-6176
+P000590,"500 Clinton Avenue, Suite 401 Little Rock, Arkansas 72201-1745",34.747431,-92.265384,(501) 324-6336
+Q000024,"2400 East Arizona Biltmore Circle, Suite 1290 Phoenix, Arizona 85016",33.525988,-112.029023,(602) 263-5300
+Q000023,"3742 West Irving Park Road Chicago, Illinois 60618",41.953726,-87.721800,(773) 267-5926
+Q000023,"1057 West Belmont Avenue Chicago, Illinois 60657",41.939834,-87.655739,(773) 267-5926
+R000011,"109 Main Street Beckley, West Virginia 25801",37.777884,-81.188069,(304) 252-5000
+R000011,"601 Federal Street, #1005 Bluefield, West Virginia 24701",37.267337,-81.221873,(304) 325-6222
+R000011,"845 5th Avenue Huntington, West Virginia 25701",38.419275,-82.444417,(304) 522-6425
+R000011,"220 Dingess Street Logan, West Virginia 25601",37.848523,-81.993672,(304) 752-4934
+R000053,"163 West 125th Street, #737 New York, New York 10027",40.808497,-73.947172,(212) 663-3900
+R000122,"1000 Chapel View Boulevard, Suite 290 Cranston, Rhode Island 02920",41.756722,-71.460520,(401) 943-3100
+R000122,"One Exchange Terrace, Suite 408 Providence, Rhode Island 02903-1773",41.825276,-71.414014,(401) 528-5200
+R000585,"1 Grove Street, Suite 101 Pittsford, New York 14534",43.095521,-77.516070,(585) 218-0040
+R000585,"89 West Market Street Corning, New York 14830",42.144046,-77.057996,(607) 654-7566
+R000585,"317 North Union Street Olean, New York 14760",42.081707,-78.429910,(716) 372-2090
+R000571,"1201 Grand Avenue, Suite 1 Billings, Montana 59102",45.784118,-108.546411,(406) 256-1019
+R000571,"950 North Montana Avenue Helena, Montana 59601",46.593623,-112.020457,(406) 443-7878
+R000571,"105 Smelter Avenue, NE, Suite 116 Great Falls, Montana 59404",47.524592,-111.309816,(406) 454-1066
+R000571,"301 East Broadway, Suite 2 Missoula, Montana 59802",46.871186,-113.990997,(406) 543-9550
+R000578,"2737 78th Avenue, SE, Suite 202 Mercer Island, Washington 98040",47.586229,-122.233627,(206) 275-3438
+R000146,"333 Las Vegas Boulevard South, Suite 8016 Las Vegas, Nevada 89101",36.166466,-115.142403,(702) 388-5020
+R000146,"400 South Virginia Street, Suite 902 Reno, Nevada 89501",39.521809,-119.811030,(775) 686-5750
+R000146,"600 East Williams Street, #302 Carson City, Nevada 89701",39.170390,-119.762592,(775) 882-7343
+R000586,"4150 Belden Village Street, Suite 408 Canton, Ohio 44718",40.855217,-81.425651,(330) 489-4414
+R000170,"310 North Mesa, #400 El Paso, Texas 79901",31.759657,-106.487936,(915) 534-4400
+R000587,"333 West College Avenue Appleton, Wisconsin 54911",44.261818,-88.409470,(920) 380-0061
+R000581,"100 West Broadway, West Tower, Suite 600 Long Beach, California 90802",33.761982,-118.198091,(562) 436-3828
+R000588,"200 Derbigny Street, Suite 3200 Gretna, Louisiana 70053",29.916197,-90.067218,(504) 483-2325
+R000589,"4772 Euclid Road, Suite E Virginia Beach, Virginia 23462",36.835202,-76.140076,(757) 687-8290
+R000589,"23386 Front Street Accomac, Virginia 23301",37.719754,-75.669555,(757) 789-5172
+R000584,"350 North 9th Street, Suite 302 Boise, Idaho 83702",43.618128,-116.202830,(208) 342-7985
+R000584,"610 Hubbard Street, Suite 213 Coeur d'Alene, Idaho 83814",47.678317,-116.794629,(208) 667-6130
+R000584,"901 Pier View Drive, Suite 202A Idaho Falls, Idaho 83402",43.484056,-112.051339,(208) 523-5541
+R000584,"313 D Street, Suite 106 Lewiston, Idaho 83501",46.421949,-117.029147,(208) 743-0792
+R000584,"275 South 5th Street, Suite 290 Pocatello, Idaho 83201",42.865284,-112.442077,(208) 236-6817
+R000584,"1411 Falls Avenue East, Suite 201 Twin Falls, Idaho 83301",42.577716,-114.456207,(208) 734-6780
+R000590,"12851 SW 42nd Street, Suite 131 Miami, Florida 33175",25.729628,-80.402630,(305) 222-0160
+R000590,"4715 Golden Gate Parkway, Suite One Naples, Florida 34116",26.183161,-81.702916,(239) 348-1620
+R000307,"11900 College Boulevard, Suite 203 Overland Park, Kansas 66210",38.927557,-94.723778,(913) 451-9343
+R000307,"444 SE Quincy, #392 Topeka, Kansas 66683",39.053498,-95.670890,(785) 295-2745
+R000307,"155 North Market Street, #120 Wichita, Kansas 67202",37.687057,-97.336795,(316) 263-0416
+R000307,"100 Military Plaza, Suite 203 Dodge City, Kansas 67801",37.753828,-100.016702,(620) 227-2244
+R000591,"22 Monroe Street, Suite 1-B Montgomery, Alabama 36104",32.378613,-86.308373,(334) 277-9113
+R000591,"188 North Foster Street, Suite 105 Dothan, Alabama 36303",31.224892,-85.392228,(334) 794-9680
+R000591,"505 East Three Notch Street, #322 Andalusia, Alabama 36420",31.308364,-86.476796,(334) 428-1129
+R000361,"405 Capitol Street, #508 Charleston, West Virginia 25301-1749",38.351532,-81.632037,(304) 347-5372
+R000361,"220 North Kanawha Street, Suite 1 Beckley, West Virginia 25801-4514",37.778989,-81.188199,(304) 253-9704
+R000361,"118 Adams Street, #301 Fairmont, West Virginia 26554-2841",39.479965,-80.148640,(304) 367-0122
+R000361,"217 West King Street, Suite 307 Martinsburg, West Virginia 25401-3211",39.456536,-77.965479,(304) 262-9285
+R000582,"PO Box 1728 Kingsport, Tennessee 37662",36.548190,-82.559319,(423) 247-8161
+R000582,"1609 College Park Drive, Suite 4 Morristown, Tennessee 37813",36.206150,-83.260250,(423) 254-1400
+R000395,"551 Clifty Street Somerset, Kentucky 42503",37.112903,-84.633717,(606) 679-8346
+R000395,"601 Main Street Hazard, Kentucky 41701",37.246687,-83.183713,(606) 439-0794
+R000395,"110 Resource Court, Suite A Prestonsburg, Kentucky 41653",37.657172,-82.783636,(606) 886-0844
+R000572,"1000 West St. Joseph Street, Suite 300 Lansing, Michigan 48915",42.726453,-84.566209,(517) 702-8000
+R000575,"1129 Noble Street, 104 Federal Building Anniston, Alabama 36201",33.658875,-85.829754,(256) 236-5655
+R000575,"1819 Pepperell Parkway, Suite 203 Opelika, Alabama 36801",32.638450,-85.399847,(334) 745-6221
+R000575,"7550 Halcyon Summit Drive Montgomery, Alabama 36117",32.364621,-86.168183,(334) 277-4210
+R000409,"101 Main Street, Suite 380 Huntington Beach, California 92648",33.657255,-118.001822,(714) 960-6483
+R000592,"355 South Washington Street Danville, Indiana 46122",39.757120,-86.523828,(317) 718-0404
+R000592,"337 Columbia Street Lafayette, Indiana 47901",40.418222,-86.893754,(765) 838-3930
+R000592,"407 South 6th Street Mitchell, Indiana 47446",38.730083,-86.471066,(812) 849-9378
+R000583,"171 SW Flagler Avenue Stuart, Florida 34994",27.200129,-80.255509,(772) 288-4668
+R000583,"226 Taylor Street, Suite 200 Punta Gorda, Florida 33950",26.934643,-82.050558,(941) 575-9101
+R000583,"2300 Virginia Avenue, Suite 208 Ft. Pierce, Florida 34982",27.425883,-80.347706,(772) 461-3933
+R000435,"4960 SW 72 Avenue, Suite 208 Miami, Florida 33155",25.725072,-80.310719,(305) 668-2285
+R000580,"150 South Bloomingdale Road, Suite 200 Bloomingdale, Illinois 60108",41.953138,-88.080965,(630) 893-9670
+R000593,"170 Fitzgerald Road, Suite 1 Lakeland, Florida 33813",27.967628,-81.963116,(863) 644-8215
+R000573,"100 East 8th Avenue, Room 2521 Pine Bluff, Arkansas 71601",34.221696,-92.003230,(870) 536-3376
+R000573,"221 West Main Street Prescott, Arkansas 71857",33.803365,-93.382004,(870) 887-6787
+R000573,"101 North Washington Street, Suite 406 El Dorado, Arkansas 71730",33.211935,-92.663691,(870) 881-0681
+R000573,"300 Exchange Street, Suite A Hot Springs National Park, Arkansas 71901",34.511512,-93.054868,(501) 520-5892
+R000462,"25 Main Street, Suite 101 Hackensack, New Jersey 07601-7089",40.879196,-74.044360,(201) 646-0808
+R000462,"130 Central Avenue Jersey City, New Jersey 07306-2118",40.739292,-74.053942,(201) 798-1366
+R000486,"255 East Temple Street, Suite 1860 Los Angeles, California 90012",34.052431,-118.239631,(213) 628-9230
+R000487,"1110 East Chapman Avenue, Suite 207 Orange, California 92866",33.787834,-117.841743,(714) 744-4130
+R000595,"8669 NW 36th Street, Suite 110 Miami, Florida 33166",25.809982,-80.336948,(305) 418-8553
+R000595,"201 South Orange Avenue, Suite 350 Orlando, Florida 32801",28.540196,-81.379009,(407) 254-2573
+R000595,"3802 Spectrum Boulevard, Suite 106 Tampa, Florida 33612",28.055684,-82.416199,(813) 977-6450
+R000595,"1650 Prudential Drive, Suite 220 Jacksonville, Florida 32207",30.316298,-81.652674,(904) 398-8586
+R000595,"1 North Palafox Street, Suite 159 Pensacola, Florida 32502",30.413115,-87.215602,(850) 433-2603
+R000594,"4167 Church Road Mount Laurel, New Jersey 08054",39.924206,-74.952377,(856) 780-6436
+R000576,"375 West Padonia Road, Suite 200 Timonium, Maryland 21093",39.455551,-76.641466,(410) 628-2701
+R000515,"700-706 East 79th Street Chicago, Illinois 60619",41.751242,-87.607505,(773) 224-6500
+R000515,"3235 West 147th Street Midlothian, Illinois 60445",41.625859,-87.699690,(708) 385-9550
+R000570,"20 South Main Street, Suite 10 Janesville, Wisconsin 53545",42.682609,-89.022148,(608) 752-4050
+R000570,"5455 Sheridan Road, Suite 125 Kenosha, Wisconsin 53140",42.585961,-87.822433,(262) 654-1901
+R000570,"216 6th Street Racine, Wisconsin 53403",42.726817,-87.783326,(262) 637-0510
+R000577,"241 West Federal Street Youngstown, Ohio 44503",41.101437,-80.652657,(330) 740-0193
+R000577,"197 West Market Street Warren, Ohio 44481-1024",41.236092,-80.819794,(330) 373-0074
+R000577,"1030 Tallmadge Avenue Akron, Ohio 44310",41.102060,-81.477668,(330) 630-7311
+S001177,"PO Box 504879 Saipan, MP 96950",15.212260,145.724342,(670) 323-2647
+S000030,"17906 Crusader Avenue, Suite 100 Cerritos, California 90703",33.868132,-118.101993,(562) 860-5050
+S001156,"12397 Lewis Street, Suite 101 Garden Grove, California 92840",33.782248,-117.899509,(714) 621-0102
+S000033,"1 Church Street, 2nd Floor Burlington, Vermont 05401",44.480327,-73.212661,(802) 862-0697
+S000033,"36 Chickering Drive, Suite 103 Brattleboro, Vermont 05301",42.877513,-72.561271,(802) 254-8732
+S000033,"51 Depot Street, Suite 201 St. Johnsbury, Vermont 05819",44.417152,-72.015599,(802) 748-9269
+S001168,"600 Baltimore Avenue, Suite 303 Towson, Maryland 21204",39.402166,-76.606951,(410) 832-8890
+S001168,"44 Calvert Street, Suite 349 Annapolis, Maryland 21401",38.980160,-76.494957,(410) 295-1679
+S001176,"110 Veterans Boulevard, Suite 500 Metairie, Louisiana 70005",29.999889,-90.123084,(504) 837-1259
+S001176,"21454 Koop Drive, Suite 1-E Mandeville, Louisiana 70471",30.418375,-90.042206,(985) 893-9064
+S001176,"201 South Cate Street Hammond, Louisiana 70403",30.503116,-90.460270,(985) 340-2185
+S001145,"5533 North Broadway Street Chicago, Illinois 60640",41.982416,-87.660030,(773) 506-7100
+S001145,"820 Davis Street, Suite 105 Evanston, Illinois 60201",42.046982,-87.682563,(847) 328-3409
+S001150,"87 North Raymond Avenue, Suite 800 Pasadena, California 91103",34.147266,-118.148913,(626) 304-2727
+S001182,"3000 41st Street, Suite 2 Moline, Illinois 61265",41.482860,-90.479848,(309) 757-7630
+S001164,"8044 Montgomery Road, Suite 170 Cincinnati, Ohio 45236",39.202311,-84.371759,(513) 791-0381
+S001164,"601 Chillicothe Street, Suite 304 Portsmouth, Ohio 45662",38.734875,-82.996533,(740) 354-1440
+S001179,"100 N.E. Monroe, Room 100, Peoria, IL 61602",40.694848,-89.592531,(309) 671-7027
+S001179,"235 South Sixth Street Springfield, Illinois 62701",39.800123,-89.647911,(217) 670-1653
+S001179,"209 West State Street Jacksonville, Illinois 62650",39.734274,-90.230172,(217) 245-1431
+S001180,"494 State Street, Suite 210 Salem, Oregon 97301",44.939628,-123.037470,(503) 588-9100
+S001180,"112 8th Street Oregon City, Oregon 97045",45.358821,-122.607914,(503) 557-1324
+S000148,"757 Third Avenue, Suite 17-02 New York, New York 10017",40.754018,-73.972068,(212) 486-4430
+S000148,"130 South Elmwood Avenue, #660 Buffalo, New York 14202",42.888108,-78.879284,(716) 846-4111
+S000148,"100 State Street, Room 3040 Rochester, New York 14614",43.157378,-77.614121,(585) 263-5866
+S000148,"Leo O'Brien Building, #420 Albany, New York 12207",42.652371,-73.750973,(518) 431-4070
+S000148,"15 Henry Street, #M103 Binghamton, New York 13901",42.100564,-75.912691,(607) 772-6792
+S000148,"100 South Clinton Street, Room 841 Syracuse, New York 13261",43.050480,-76.153540,(315) 423-5471
+S000148,"One Park Place, Suite 100 Peekskill, New York 10566",41.290758,-73.916957,(914) 734-1532
+S000148,"145 Pinelawn Road, Suite 300 Melville, New York 11747",40.773547,-73.405007,(631) 753-0978
+S001162,"7219 Frankford Avenue Philadelphia, Pennsylvania 19135",40.036233,-75.041916,(215) 335-3355
+S001162,"706 West Avenue Jenkintown, Pennsylvania 19046",40.096061,-75.126803,(215) 517-6572
+S001183,"10603 North Hayden Road, Suite 108 Scottsdale, Arizona 86260",33.583584,-111.908731,(480) 946-2411
+S001189,"127-B North Central Avenue Tifton, Georgia 31794",31.455102,-83.510611,(229) 396-5175
+S001189,"230 Margie Drive, Suite 500 Warner Robins, Georgia 31088",32.616279,-83.689838,(478) 971-1776
+S001157,"173 North Main Street Jonesboro, Georgia 30236",33.525628,-84.354416,(770) 210-5073
+S001157,"888 Concord Road, Suite 100 Smyrna, Georgia 30080",33.875075,-84.528146,(770) 432-5405
+S000185,"2600 Washington Avenue, #1010 Newport News, Virginia 23607",36.978431,-76.430775,(757) 380-1000
+S000185,"400 N. 8th Street Suite 430 Richmond, Virginia 23219",37.542301,-77.433896,(804) 644-4845
+S001184,"2000 Sam Rittenberg Boulevard, Suite 3007 Charleston, South Carolina 29407",32.794556,-80.028015,(843) 852-2222
+S001184,"1800 North Oak Street, #C Myrtle Beach, South Carolina 29577",33.702150,-78.876755,(843) 445-6459
+S000244,"120 Bishops Way, Suite 154 Brookfield, Wisconsin 53005",43.029742,-88.079167,(262) 784-1111
+S000248,"1231 Lafayette Avenue, 4th Floor Bronx, New York 10474",40.816482,-73.890375,(718) 620-0084
+S001141,"7550 Halcyon Summit Drive, Suite 150 Montgomery, Alabama 36117",32.364621,-86.168183,(334) 244-7017
+S001141,"341 Vance Federal Building, 1800 5th Avenue, North Birmingham, Alabama 35203-2171",33.518878,-86.809655,(205) 731-1500
+S001141,"41 West I-65 Service Road North, Suite 2300-A Mobile, Alabama 36608-1291",30.689207,-88.127347,(251) 414-3083
+S001141,"200 Clinton Avenue NW, Regions Center, Suite 802 Huntsville, Alabama 35801-4932",34.725950,-86.572066,(256) 533-0979
+S000250,"Park Central 7, 12750 Merit Drive, Suite 1434 Dallas, Texas 75251",32.915909,-96.772481,(972) 392-0505
+S001185,"2 20th Street North, Suite 1130 Birmingham, Alabama 35203",33.513266,-86.804876,(205) 254-1960
+S001185,"186 Field of Dreams Drive Demopolis, Alabama 36732",32.484403,-87.785540,(334) 287-0860
+S001185,"205 North Washington Street, UWA Station 40 Livingston, Alabama 35470-2099",32.588735,-88.184589,(205) 652-5834
+S001185,"908 Alabama Avenue, Federal Building, Suite 112 Selma, Alabama 36701",32.412217,-87.034693,(334) 877-4414
+S001185,"1118 Greensboro Avenue, Suite 336 Tuscaloosa, Alabama 35401",33.203848,-87.566003,(205) 752-5380
+S001181,"1589 Elm Street, Suite 3 Manchester, New Hampshire 03101",43.000970,-71.464428,(603) 647-7500
+S001181,"60 Main Street Nashua, New Hampshire 03060",42.763621,-71.466535,(603) 883-0196
+S001181,"340 Central Avenue, Suite 205 Dover, New Hampshire 03820",43.195090,-70.874594,(603) 750-3004
+S000320,"1118 Greensboro Avenue, #240 Tuscaloosa, Alabama 35401",33.203848,-87.566003,(205) 759-5047
+S000320,"113 St. Joseph Street, 445 U.S. Federal Courthouse Mobile, Alabama 36602",30.693746,-88.042606,(251) 694-4164
+S000320,"15 Lee Street, FMJ Federal Courthouse, Suite 208 Montgomery, Alabama 36104",32.376282,-86.309907,(334) 223-7303
+S000320,"1800 5th Avenue, North, 321 Federal Building Birmingham, Alabama 35203",33.516813,-86.810863,(205) 731-1384
+S000320,"1000 Glenn Hearn Boulevard, Box 20127 Huntsville, Alabama 35824",34.648003,-86.738549,(256) 772-0460
+S000344,"5000 Van Nuys Boulevard, Suite 420 Sherman Oaks, California 91403-1791",34.161329,-118.448683,(818) 501-9200
+S000364,"3130 Chatham Road, Suite C Springfield, Illinois 62704",39.763115,-89.686866,(217) 492-5090
+S000364,"240 Regency Centre Collinsville, Illinois 62234",38.691676,-89.989929,(618) 344-3065
+S000364,"221 East Broadway, #102 Centralia, Illinois 62801",38.527552,-89.133846,(618) 532-9676
+S000364,"120 South Fair Olney, Illinois 62450",38.730971,-88.083576,(618) 392-7737
+S000364,"110 East Locust Street, Room 12 Harrisburg, Illinois 62946",37.739110,-88.539264,(618) 252-8271
+S001171,"205 College Street, Suite 100 Asheville, North Carolina 28801",35.596783,-82.548056,(828) 252-1651
+S001171,"75 Peachtree Street, Suite 100 Murphy, North Carolina 28906",35.086793,-84.033338,(828) 835-4981
+S001171,"125 Bonnie Lane Sylva, North Carolina 28779",35.368002,-83.206584,(828) 586-1962
+S001154,"310 Penn Street, Suite 200 Hollidaysburg, Pennsylvania 16648",40.429587,-78.389936,(814) 696-6318
+S001154,"100 Lincoln Way East, Suite B Chambersburg, Pennsylvania 17201",39.937410,-77.660670,(717) 264-8308
+S001154,"827 Water Street, #3 Indiana, Pennsylvania 15701",40.624364,-79.155062,(724) 463-0516
+S001154,"118 West Main Street, Suite 104 Somerset, Pennsylvania 15501",40.008468,-79.079166,(814) 443-3918
+S001148,"802 West Bannock Street, Suite 600 Boise, Idaho 83702",43.617259,-116.202124,(208) 334-1953
+S001148,"410 Memorial Drive, Suite 203 Idaho Falls, Idaho 83402",43.493752,-112.042938,(208) 523-6701
+S001148,"1341 Filmore, Suite 202 Twin Falls, Idaho 83301",42.586477,-114.464561,(208) 734-7219
+S001148,"275 South 5th Avenue, #275 Pocatello, Idaho 83201",42.865284,-112.442077,(208) 233-2222
+S001165,"35 Journal Square, Suite 906 Jersey City, New Jersey 07306",40.731311,-74.064328,(201) 222-2828
+S001165,"5500 Palisades Avenue, Suite A West New York, New Jersey 07093",40.784887,-74.016452,(201) 558-0800
+S001165,"630 Avenue C, Room 9 Bayonne, New Jersey 07002",40.668849,-74.117378,(201) 823-2900
+S001165,"100 Cooke Avenue, 2nd Floor Carteret, New Jersey 07008",40.578663,-74.219645,(732) 969-9160
+S001165,"1 Olive Street, 2nd Floor Perth Amboy, New Jersey 08861",40.509339,-74.278299,(732) 442-0610
+S000480,"3120 Federal Building, 100 State Street Rochester, New York 14614",43.156454,-77.615393,(585) 232-4850
+S000480,"465 Main Street, Suite 105 Buffalo, New York 14203",42.886773,-78.873971,(716) 853-5813
+S000480,"1910 Pine Avenue Niagara Falls, New York 14301",43.095110,-79.038758,(716) 282-1274
+S000510,"2209 Pacific Avenue, Suite B Tacoma, Washington 98402",47.241893,-122.435971,(253) 593-6600
+S001172,"416 Valley View Drive, Suite 600 Scottsbluff, Nebraska 69361",41.878696,-103.654811,(308) 633-6333
+S001172,"1811 West Second Street, Suite 275 Grand Island, Nebraska 68803",40.917252,-98.358170,(308) 384-3900
+S000522,"1540 Kuser Road, Suite A9 Hamilton, New Jersey 08619",40.208097,-74.696750,(609) 585-7878
+S000522,"108 Lacey Road, Suite 38A Whiting, New Jersey 08759-1331",39.954406,-74.379077,(732) 350-2300
+S000583,"1100 NE Loop 410, #640 San Antonio, Texas 78209",29.515742,-98.453938,(210) 821-5024
+S000583,"3536 Bee Cave Road, Suite 212 Austin, Texas 78746",30.277589,-97.804935,(512) 306-0439
+S000583,"301 Junction Highway, Suite 346C Kerrville, Texas 78028",30.054341,-99.150254,(830) 896-0154
+S000663,"Three Canal Plaza, #601 Portland, Maine 04101",43.657626,-70.254827,(207) 874-0883
+S000663,"Two Great Falls Plaza, #7B Auburn, Maine 04210",44.097641,-70.224594,(207) 786-2451
+S000663,"40 Western Avenue, #408C Augusta, Maine 04330",44.311196,-69.783409,(207) 622-8292
+S000663,"202 Harlow Street, Suite 214 Bangor, Maine 04401",44.804895,-68.773298,(207) 945-0432
+S000663,"227 Main Street Biddeford, Maine 04005",43.493884,-70.457258,(207) 282-4144
+S000663,"169 Academy Street, Suite 3 Presque Isle, Maine 04769",46.676185,-67.995525,(207) 764-5124
+S001186,"840 West 11th Street, Suite 2250 Panama City, Florida 32401",30.167972,-85.672460,(850) 785-0812
+S001186,"3116 Capital Circle NE, Suite 9 Tallahassee, Florida 32308",30.493643,-84.244514,(850) 561-3979
+S001175,"400 South El Camino Real, Suite 750 San Mateo, California 94402",37.562195,-122.325091,(650) 342-0300
+S000770,"221 West Lake Lansing Road, Suite 100 East Lansing, Michigan 48823",42.759315,-84.485906,(517) 203-1760
+S000770,"3335 South Airport Road West, Suite 6B Traverse City, Michigan 49684",44.722747,-85.642065,(231) 929-1031
+S000770,"432 North Saginaw Street, Suite 301 Flint, Michigan 48502",43.019625,-83.693507,(810) 720-4172
+S000770,"243 West Congress, Suite 550 Detroit, Michigan 48226",42.329018,-83.048539,(313) 961-4330
+S000770,"3280 East Beltline Court, Suite 400 Grand Rapids, Michigan 49525",43.038263,-85.587810,(616) 975-0052
+S000770,"1901 West Ridge, #7 Marquette, Michigan 49855",46.548477,-87.427288,(906) 228-8756
+S000810,"39300 Civic Center Drive, Suite 220 Fremont, California 94538",37.553988,-121.975638,(510) 494-1388
+S000822,"115 SE 25th Avenue Ocala, Florida 34471",29.184700,-82.103175,(352) 351-8777
+S000822,"1726 Kingsley Avenue SE, #8 Orange Park, Florida 32073",30.164919,-81.733089,(904) 269-3203
+S000822,"5700 SW 34th Street, Suite 425 Gainesville, Florida 32608",29.599041,-82.366819,(352) 337-0003
+S001187,"3790 Municipal Way Hilliard, Ohio 43026",40.029759,-83.151037,(614) 771-4968
+S001188,"320 North Chicago Avenue, Suite 9B, Goshen, Indiana 46528",41.589429,-85.843043,(574) 533-5802
+S001188,"700 Park Avenue, Suite D, Winona Lake, Indiana 46590",41.230480,-85.822491,(574) 269-1940
+S001188,"874 North Lima Road, Suite B Kendallville, Indiana 46755",41.453607,-85.270034,(260) 599-0554
+S001188,"1300 South Harrison Street Fort Wayne, Indiana 46802",41.074113,-85.140044,(260) 424-3041
+S001155,"5727 South Lewis, Suite 520, Tulsa, Oklahoma 74105",36.079888,-95.957964,(918) 749-0014
+S001155,"401 South Johnstone Avenue, Suite 348, Bartlesville, Oklahoma 74003",36.749839,-95.977672,(918) 336-6500
+S001174,"2 South Main Street, Suite 380, Akron, Ohio 44308",41.084847,-81.516892,(330) 865-8450
+S001174,"205 West 20th Street, Suite M230, Lorain, Ohio 44052",41.452359,-82.166923,(440) 245-5350
+T000459,"11717 Burt Street, Suite 106, Omaha, Nebraska 68154",41.265640,-96.098510,(402) 397-9944
+T000464,"208 North Montana Avenue, Suite 202, Helena, Montana 59601",46.586104,-112.020335,(406) 449-5401
+T000464,"222 North 32nd Street, Suite 102, Billings, Montana 59101",45.780836,-108.511707,(406) 252-0550
+T000464,"130 West Front Street, Missoula, Montana 59802",46.870321,-113.995816,(406) 728-3003
+T000464,"19 1st Avenue North, Suite 102, Great Falls, Montana 59401",47.506440,-111.306029,(406) 452-9585
+T000464,"1 East Main Street, Suite 202, Bozeman, Montana 59715",45.679309,-111.037066,(406) 586-4450
+T000464,"125 West Granite, Suite 200, Butte, Montana 59701",46.014332,-112.538302,(406) 723-3277
+T000464,"14 Third Street East, Suite 230, Kalispell, Montana 59901",48.195874,-114.312409,406) 257-3360
+T000464,"122 West Towne, Glendive, Montana 59330",47.105426,-104.712981,(406) 365-2391
+T000193,"107 West Madison Street, Bolton, Mississippi 39041",32.349198,-90.459685,601) 866-9003
+T000193,"263 East Main Street, Marks, Mississippi 38646",34.257166,-90.269905,(662) 326-9003
+T000193,"509 Highway 82 West, Suite F, Greenwood, Mississippi 38930",33.508022,-90.197055,(662) 455-9003
+T000193,"910 Courthouse Lane, Greenville, Mississippi 38701",33.408021,-91.051869,(662) 335-9003
+T000193,"106 Green Avenue, Suite 106, Mound Bayou, Mississippi 38762",33.878411,-90.730145,662) 741-9003
+T000193,"3607 Medgar Evers Boulevard, Jackson, Mississippi 39213",32.340150,-90.214258,(601) 946-9003
+T000467,"3555 Benner Pike, Suite 101, Bellefonte, Pennsylvania 16823",40.895536,-77.787028,(814) 353-0215
+T000467,"127 West Spring Street, Suite C, Titusville, Pennsylvania 16354",41.626424,-79.674193,(814) 827-3985
+T000460,"1040 Main Street, Suite 101, Napa, California 94559",38.299568,-122.285765,(707) 226-9898
+T000460,"430 North Franklin Street, PO Box 2208, Ft. Bragg, California 95437",39.446332,-123.751951,(707) 962-0933
+T000460,"317 3rd Street, Suite 1, Eureka, California 95501",40.803353,-124.168259,(707) 269-9595
+T000460,"712 Main Street, Suite 101, Woodland, California 95695",38.677430,-121.771612,(530) 662-5272
+T000238,"905 South Fillmore Street, Suite 520, Amarillo, Texas 79101",35.204079,-101.835168,(806) 371-8844
+T000238,"4245 Kemp, Suite 506, Wichita Falls, Texas 76308",33.866634,-98.535875,(940) 692-1700
+T000250,"320 North Main Avenue, Suite B, Sioux Falls, South Dakota 57104",43.550271,-96.728349,(605) 334-9596
+T000250,"1313 West Main Street, Rapid City, South Dakota 57701",44.082159,-103.239059,(605) 348-7551
+T000250,"320 South 1st Street, Aberdeen, South Dakota 57401",45.461851,-98.489527,(605) 225-8823
+T000462,"3000 Corporate Exchange Drive, Suite 310, Columbus, Ohio 43231",40.101425,-82.939870,(614) 523-2555
+T000266,"17 Peabody Square, Peabody, Massachusetts 01960",42.525815,-70.927076,(978) 531-1669
+T000266,"Lynn City Hall, Room 412, Lynn, Massachusetts 01902",42.469039,-70.927660,(781) 595-7375
+T000470,"609 Main Street, #105, Alamosa, Colorado 81101",37.468198,-105.865743,(719) 587-5105
+T000470,"225 North 5th Street, Suite 702, Grand Junction, Colorado 81501",39.068602,-108.564464,(970) 241-2499
+T000469,"Leo W. O'Brien Fed. Bldg., 1 Clinton Ave., Rm. 827, Albany, New York 12207",42.647670,-73.754029,(518) 465-0700
+T000469,"61 Church Street, Room 309, Amsterdam, New York 12010",42.939039,-74.188799,(518) 843-3400
+T000469,"105 Jay Street, Room 15, Schenectady, New York 12305",42.814243,-73.939782,(518) 374-4547
+T000461,"504 Hamilton Street, Suite 3814, Allentown, Pennsylvania 18101",40.603193,-75.468141,(610) 434-1444
+T000461,"17 South Park Row, Suite B-120, Erie, Pennsylvania 16501",42.128953,-80.085116,(814) 453-3010
+T000461,"228 Walnut Street, Suite 1104, Harrisburg, Pennsylvania 17101",40.261270,-76.882590,(717) 782-3951
+T000461,"600 Arch Street, Suite 9400, Philadelphia, Pennsylvania 19106",39.952774,-75.150112,(215) 597-7200
+T000326,"186 Joralemon Street, Suite 1101, Brooklyn, New York 11201",40.692648,-73.991849,(718) 855-8018
+T000326,"10408 Flatlands Avenue, Brooklyn, New York 11236",40.647093,-73.895244,(718) 272-1175
+T000465,"11 Kearney Square, 3rd Floor, Lowell, Massachusetts 01852",42.645314,-71.306995,(978) 459-0101
+T000465,"305 Essex Street, 4th Floor, Lawrence, Massachusetts 01840",42.707638,-71.161694,(978) 681-6200
+T000463,"120 West Third Street, Suite 305, Dayton, Ohio 45402",39.759158,-84.194051,(937) 225-2843
+T000463,"61 East Main Street, Suite One, Wilmington, Ohio 45177",39.445311,-83.827653,(937) 383-8931
+U000038,"999 Eighteenth Street, Suite N1525, Denver, Colorado 80202",39.748997,-104.992286,(303) 650-7820
+U000038,"2880 International Circle, Suite 107, Colorado Springs, Colorado 80910",38.827096,-104.789105,(719) 471-3993
+U000038,"400 Rood Avenue, Suite 215, Grand Junction, Colorado 81501",39.068328,-108.565958,(970) 245-9553
+U000038,"801 8th Street, Suite 140A, Greeley, Colorado 80631",40.424898,-104.691051,(970) 356-5586
+U000038,"107 West B Street, Pueblo, Colorado 81003",38.262572,-104.616139,(719) 542-1701
+U000038,"954 East 2nd Avenue, Suite 106, Durango, Colorado 81301",37.273711,-107.879281,(970) 247-1047
+U000039,"Albuquerque Plaza, 201 3rd Street NW, Suite 710, Albuquerque, New Mexico 87102",35.084210,-106.647729,(505) 346-6791
+U000039,"Loretto Town Center, 505 South Main, Suite 118, Las Cruces, New Mexico 88001",32.304750,-106.761709,(575) 526-5475
+U000039,"120 South Federal Place, Suite 302, Santa Fe, New Mexico 87501",35.690681,-105.938479,(505) 988-6511
+U000031,"157 South Kalamazoo Mall, #180, Kalamazoo, Michigan 49007",42.290850,-85.583182,(269) 385-0039
+U000031,"800 Centre, Suite 106, 800 Ship Street, St. Joseph, Michigan 49085",42.067440,-86.475301,(269) 982-1986
+V000128,"51 Monroe Street, Suite 507, Rockville, Maryland 20850",39.084050,-77.149034,(301) 424-3501
+V000128,"6475 New Hampshire Avenue, Suite C-201, Hyattsville, Maryland 20783",38.968128,-77.000532,(301) 891-6982
+V000081,"266 Broadway, Suite 201, Brooklyn, New York 11211-6215",40.708797,-73.959045,(718) 599-3658
+V000081,"173 Avenue B, New York, New York 10009",40.614125,-73.973150,(212) 673-3997
+V000081,"16 Court Street, Suite 1006, Brooklyn, New York 11241",40.693508,-73.990512,(718) 222-5819
+V000108,"7895 Broadway, Suite A, Merrillville, Indiana 46410",41.475272,-87.335915,(219) 795-1844
+V000127,"800 Lafayette Street, Suite 1200, Lafayette, Louisiana 70501",30.225185,-92.020779,(337) 262-6898
+V000127,"858 Convention Street, Baton Rouge, Louisiana 7080",30.448477,-91.182137,(225) 383-0331
+V000127,"2230 South MacArthur Drive, Suite 4, Alexandria, Louisiana 71301",31.269386,-92.460675,(318) 448-0169
+V000127,"1217 North 19th Street, Monroe, Louisiana 71201",32.522424,-92.108751,(318) 325-8120
+V000127,"920 Pierremont Road, Suite 113, Shreveport, Louisiana 71106",32.454709,-93.748699,(318) 861-0437
+V000127,"2800 Veterans Boulevard, Suite 201, Metairie, Louisiana 70002",30.002659,-90.149524,(504) 589-2753
+V000127,"3221 Ryan Street, Suite E, Lake Charles, Louisiana 70601",30.199151,-93.218621,(337) 436-0453
+W000798,"800 West Ganson Street, Jackson, Michigan 49202",42.254758,-84.423523,(517) 780-9075
+W000791,"843 East Main Street, Suite 400, Medford, Oregon 97504",42.327888,-122.864026,(541) 776-4646
+W000791,"1051 NW Bond Street, Suite 400, Bend, Oregon 97701",44.059506,-121.311746,(541) 389-4408
+W000791,"1211 Washington Avenue, La Grande, Oregon 97850",45.327755,-118.094964,(541) 624-2400
+W000811,"50 East Grand Avenue, Fox Lake, Illinois 60020",42.397260,-88.179463,(847) 973-9341
+W000799,"227 East Main Street, Suite 220, Mankato, Minnesota 56001",44.166563,-94.001037,(507) 388-2149
+W000799,"1134 7th Street, NW, Rochester, Minnesota 55901",44.031506,-92.479647,(507) 206-0643
+W000805,"919 East Main Street, Suite 630, Richmond, Virginia 23219",37.538051,-77.436088,(804) 775-2314
+W000805,"101 West Main Street, Suite 4900, Norfolk, Virginia 23510",36.846309,-76.292377,(757) 441-3079
+W000805,"180 West Main Street, Abingdon, Virginia 24210",36.710022,-81.976598,(276) 628-8158
+W000805,"129B Salem Avenue, SW, Roanoke, Virginia 24011",37.272517,-79.943453,(540) 857-2676
+W000805,"8000 Towers Crescent Drive, Suite 200, Vienna, Virginia 22182",38.913995,-77.219970,(703) 442-0670
+W000797,"10100 Pines Boulevard, Pembroke Pines, Florida 33026",26.008116,-80.280043,(954) 437-3936
+W000797,"19200 West Country Club Drive, 3rd Floor, Aventura, Florida 33180",25.951800,-80.138522,(305) 936-5724
+W000187,"10124 South Broadway, Suite 1, Los Angeles, California 90003",33.944370,-118.278138,(323) 757-8900
+W000207,"1230 West Morehead Street, Suite 306, Charlotte, North Carolina 28208",35.229073,-80.861684,(704) 344-9950
+W000207,"301 South Greene Street, Suite 210, Greensboro, North Carolina 27401",36.070119,-79.791680,(336) 275-9950
+W000215,"8436 West 3rd Street, Suite 600, Los Angeles, California 90048",34.073150,-118.374519,(310) 652-3095
+W000803,"507 East Franklin Street, Richmond, Virginia 23219",37.541143,-77.438970,(804) 771-2221
+W000803,"3140 Chaparral Drive, Building C, Suite 101, Roanoke, Virginia 24018",37.224542,-80.017881,(540) 772-4236
+W000803,"222 Central Park Avenue, Suite 120, Virginia Beach, Virginia 23462",36.842752,-76.133878,(757) 518-1674
+W000803,"7309 Arlington Boulevard, Suite 316, Falls Church, Virginia 22042",38.865865,-77.199064,(703) 573-7090
+W000803,"756 Park Avenue, NW, Norton, Virginia 24273",36.933889,-82.629117,(276) 679-4925
+W000803,"308 Craghead Street, Suite 102A, Danville, Virginia 24541",36.587014,-79.389396,(434) 792-0976
+W000806,"300 West Plant Street, Winter Garden, Florida 34787",28.565058,-81.589323,(407) 654-5705
+W000800,"30 Main Street, Suite 350, Burlington, Vermont 05401",44.475756,-73.217952,(802) 652-2450
+W000807,"6300 NE 1st Avenue, Suite 100, Fort Lauderdale, Florida 33301",26.204167,-80.146803,(866) 713-7303
+W000807,"3111 South Dixie Highway, Suite 308, West Palm Beach, Florida 33405",26.685554,-80.054489,(561) 655-1943
+W000796,"1601-B East Highway 34, Newnan, Georgia 30265",33.399643,-84.726181,(770) 683-2033
+W000802,"170 Westminster Street, Suite 1100, Providence, Rhode Island 02903",41.823722,-71.411491,(401) 453-5294
+W000413,"1403 South Main Street, Hopkinsville, Kentucky 42240",36.862988,-87.490648,(270) 885-8079
+W000413,"200 Main Street, Suite F, Tompkinsville, Kentucky 42167",36.700758,-85.692860,(270) 487-9509
+W000413,"222 First Street, Suite 224, Henderson, Kentucky 42420",37.839188,-87.591656,(270) 826-4180
+W000413,"100 Fountain Avenue, #104, Paducah, Kentucky 42001",37.079012,-88.617452,(270) 442-6901
+W000437,"245 East Capitol Street, Suite 226, Jackson, Mississippi 39201",32.299858,-90.185101,(601) 965-4644
+W000437,"452 Courthouse Road, Suite F, Gulfport, Mississippi 39507",30.388400,-89.044219,(228) 604-2383
+W000437,"3118 Pascagoula Street, Suite 179, Pascagoula, Mississippi 39567",30.365107,-88.556354,(228) 762-5400
+W000437,"2801 West Main Street, Tupelo, Mississippi 38801",34.253840,-88.752035,(662) 844-5010
+W000437,"321 Losher Street, PO Box 385, Hernando, Mississippi 38632",34.817170,-90.007221,(662) 429-1002
+W000808,"18425 NW 2nd Avenue, Suite 355, Miami Gardens, Florida 33169",25.943648,-80.205154,(305) 690-5905
+W000795,"903 Port Republic Street, Beaufort, South Carolina 29902",32.431719,-80.671924,(843) 521-2530
+W000795,"1700 Sunset Boulevard (US 378), Suite 1, West Columbia, South Carolina 29169",33.999037,-81.090130,(803) 939-0041
+W000804,"4904-B George Washington Memorial Highway, Yorktown, Virginia 23692",37.152643,-76.460697,(757) 874-6687
+W000804,"3504 Plank Road, Suite 203, Fredericksburg, Virginia 22407",38.293854,-77.519127,(540) 548-1086
+W000804,"508 Church Lane,Tappahannock, Virginia 22560",37.926271,-76.859604,(804) 443-0668
+W000672,"13873 Park Center Road, #130, Herndon, Virginia 20171",38.933479,-77.426898,(703) 709-5800
+W000672,"110 North Cameron Street, Winchester, Virginia 22601",39.184626,-78.163804,(540) 667-0990
+W000809,"423 North 6th Street, Fort Smith, Arkansas 72902",35.390594,-94.422084,(479) 424-1146
+W000809,"303 North Main Street, Suite 102, Harrison, Arkansas 72601",36.232183,-93.107275,(870) 741-6900
+W000809,"3333 Pinnacle Hills, Suite 120, Rogers, Arkansas 72758",36.305027,-94.187364,(479) 464-0446
+W000810,"75 Langley Drive, Lawrenceville, Georgia 30045",33.952109,-83.993879,(770) 232-3005
+W000738,"1101 College Avenue, Suite 200, Santa Rosa, California 95404",38.445376,-122.707974,(707) 542-7182
+W000738,"1050 Northgate Drive, Suite 354, San Rafael, California 94903",38.008589,-122.544676,(415) 507-9554
+W000779,"911 NE 11th Avenue, Suite 630, Portland, Oregon 97232",45.529228,-122.654422,(503) 326-7525
+W000779,"405 East 8th Avenue, Suite 2020, Eugene, Oregon 97401",44.051038,-123.086434,(541) 431-0229
+W000779,"131 NW Hawthorne Avenue, Suite 107, Bend, Oregon 97701",44.057902,-121.309328,(541) 330-9142
+W000779,"SAC Annex Building, 105 Fir Street, Suite 201, LaGrande, Oregon 97850",45.271661,-118.195847,(541) 962-7691
+W000779,"310 West 6th Street, Room 118, Medford, Oregon 97501",42.325337,-122.876905,(541) 858-5122
+W000779,"707 13th Street, SE, Suite 285, Salem, Oregon 97301",44.933386,-123.028677,(503) 589-4555
+Y000062,"600 Martin Luther King Jr. Place, Suite 216, Louisville, Kentucky 40202",38.248851,-85.761455,(502) 582-5129
+Y000062,"7219 Dixie Highway, Louisville, Kentucky 40258",38.145928,-85.838410,(502) 933-5863
+Y000063,"500 State Avenue, #176, Kansas City, Kansas 66101",39.116557,-94.621686,(913) 621-0832
+Y000031,"360 Central Avenue, #1480, St. Petersburg, Florida 33701",27.771186,-82.637896,(727) 893-3191
+Y000031,"9210 113th Street, Seminole, Florida 33772",27.856600,-82.795411,(727) 394-6950
+Y000033,"805 Frontage Road, Suite 110, Kenai, Alaska 99611-7716",60.554297,-151.257361,(907) 283-7701
+Y000033,"612 West Willoughby Avenue, Suite B, Juneau, Alaska 99802",58.300786,-134.417196,(907) 586-7400
+Y000033,"101 12th Avenue, #10, Fairbanks, Alaska 99701-6275",64.838351,-147.706741,(907) 456-0210
+Y000033,"510 L Street, Suite 580Anchorage, Alaska 99501-1954",61.217382,-149.903755,(907) 271-5978
+Y000064,"279 Quartermaster, Jeffersonville, Indiana 47130",38.283870,-85.740792,(812) 288-3999
+Y000064,"320 West 8th Street, Suite 114, Bloomington, Indiana 47404",39.169536,-86.537704,(812) 336-3000
