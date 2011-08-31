@@ -45,8 +45,6 @@ app = Flask(__name__)
 @app.route("/zipcode/<zipcode>")
 def by_zipcode(zipcode):
 
-    print zipcode
-
     members = []
 
     for legislator in sunlight.legislators.allForZip(zipcode):
