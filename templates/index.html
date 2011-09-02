@@ -265,10 +265,15 @@
                     if (status == g.GeocoderStatus.OK && results) {
 
                         var res = results[0];
-                        var zipcode = res.address_components[5].short_name;
 
-                        $form.find('input[name=zipcode]').val(zipcode);
-                        zoomToZipcode(zipcode);
+                        $.each(res.address_components, function(index, addrComp) {
+                            if (addrComp.types[0] === 'postal_code') {
+                                var zipcode = addrComp.long_name;
+                                $form.find('input[name=zipcode]').val(zipcode);
+                                zoomToZipcode(zipcode);
+                                return false;
+                            }
+                        });
 
                     }
 
