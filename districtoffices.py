@@ -45,10 +45,10 @@ def legislator_to_dict(legislator):
 
 app = Flask(__name__)
 
-@app.before_request
-def request_logger():
-    print request.path
-    logger.debug(request.path)
+# @app.before_request
+# def request_logger():
+#     print request.path
+#     logger.debug(request.path)
 
 @app.route("/zipcode/<zipcode>")
 def by_zipcode(zipcode):
